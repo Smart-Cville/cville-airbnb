@@ -21,7 +21,7 @@ The bulk of this project is focused on contructing a useful dataset of AirBnB ac
 and scraping tools available:
 
 * [Parsehub](https://www.parsehub.com/blog/scrape-airbnb-listing-data/)
-* [Octoparse](https://www.octoparse.com/tutorial-7/scrape-room-data-from-airbnb)
-* [video tutorials](https://stevesie.com/apps/airbnb-api)
+* [Octoparse](https://www.octoparse.com/tutorial-7/scrape-room-data-from-airbnb) **Windows only**
+* [Video tutorials](https://stevesie.com/apps/airbnb-api)
 
-We want to establish are durable methods (language/tool agnostic) that can build a similar data collection for properties located within the city limits.
+We want to establish durable methods (language/tool agnostic) that can build a similar data collection for properties located within the city limits.
