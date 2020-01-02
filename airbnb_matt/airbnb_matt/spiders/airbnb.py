@@ -42,7 +42,7 @@ class AirbnbSpider(scrapy.Spider):
 
         url = ('https://www.airbnb.com/api/v2/explore_tabs?_format=for_explore_search_web&_intents=p1'
               '&allow_override%5B%5D=&auto_ib=false&client_session_id='
-              '621cf853-d03e-4108-b717-c14962b6ab8b&currency=CAD&experiences_per_grid=20&fetch_filters=true'
+              '621cf853-d03e-4108-b717-c14962b6ab8b&currency=USD&experiences_per_grid=20&fetch_filters=true'
               '&guidebooks_per_grid=20&has_zero_guest_treatment=true&is_guided_search=true'
               '&is_new_cards_experiment=true&is_standard_search=true&items_per_grid=18'
               '&key=d306zoyjsyarp7ifhu67rjxn52tv0t20&locale=en&luxury_pre_launch=false&metadata_only=false&'
@@ -57,7 +57,7 @@ class AirbnbSpider(scrapy.Spider):
         if (int(self.price_lb)  >= 990):
             url = ('https://www.airbnb.com/api/v2/explore_tabs?_format=for_explore_search_web&_intents=p1'
               '&allow_override%5B%5D=&auto_ib=false&client_session_id='
-              '621cf853-d03e-4108-b717-c14962b6ab8b&currency=CAD&experiences_per_grid=20&fetch_filters=true'
+              '621cf853-d03e-4108-b717-c14962b6ab8b&currency=USD&experiences_per_grid=20&fetch_filters=true'
               '&guidebooks_per_grid=20&has_zero_guest_treatment=true&is_guided_search=true'
               '&is_new_cards_experiment=true&is_standard_search=true&items_per_grid=18'
               '&key=d306zoyjsyarp7ifhu67rjxn52tv0t20&locale=en&luxury_pre_launch=false&metadata_only=false&'
