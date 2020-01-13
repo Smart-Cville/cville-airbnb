@@ -17,6 +17,7 @@ The bulk of this project is focused on contructing a useful dataset of AirBnB ac
 
 * [Airbnb web scraper](https://github.com/tomslee/airbnb-data-collection/)
 * [NYC scrape project](https://github.com/adodd202/Airbnb_Scraping)
+* [Scrape project using scrapy splash](https://github.com/kailu3/airbnb-scraper)
 
 and scraping tools available:
 
