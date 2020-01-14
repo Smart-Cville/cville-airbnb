@@ -1,0 +1,11 @@
+bin/*
+include/*
+share/*
+lib/*
+.DS_Store
+.Rhistory
+.Rproj.user/*
+.ipynb_checkpoints/*
+cville-airbnb.Rproj
+cville-airbnb.code-workspace
+pyvenv.cfg
