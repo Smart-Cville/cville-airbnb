@@ -65,8 +65,8 @@ DOWNLOAD_DELAY = 10
 # Configure item pipelines
 # See http://scrapy.readthedocs.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-	'vrbo.pipelines.WriteItemPipeline': 3,
-	'vrbo.pipelines.ValidateItemPipeline': 1
+	'vrbo.pipelines.ValidateItemPipeline': 1,
+	'vrbo.pipelines.WriteItemPipeline': 2
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
