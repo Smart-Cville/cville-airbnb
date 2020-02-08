@@ -1,2 +1,123 @@
-details,loc,numReviews,price,rating,roomID
-"House,3123, ,sq. ft.,Sleeps: 8,Bedrooms: 3,Bathrooms: 2,Half Baths: 1,Min Stay: 2–7 nights","""lat"":38.0284936,""lng"":-78.5102138",5 Reviews,417,Wonderful! 4.8/5,7388327ha
+details,latitude,longitude,numReviews,price,rating,roomID
+"Cottage,1050, ,sq. ft.,Sleeps: 5,Bedrooms: 2,Bathrooms: 1,Min Stay: 1–3 nights",38.0284936,-78.5102138,49 Reviews,167,Wonderful! 4.9/5,655823
+"Hotel,225, ,sq. ft.,Sleeps: 2,Bedrooms: 1,Bathrooms: 1,Min Stay: 1–3 nights",38.0352601,-78.4777643,2 Reviews,172,,7160442ha
+"House,3150, ,sq. ft.,Sleeps: 6,Bedrooms: 3,Bathrooms: 3,Min Stay: 2–3 nights",38.0195198,-78.4723511,10 Reviews,343,Wonderful! 4.8/5,7160483ha
+"Apartment,571, ,sq. ft.,Sleeps: 2,Bedrooms: 1,Bathrooms: 1,Min Stay: 1–3 nights",38.0195198,-78.4723511,,155,,9165059ha
+"Apartment,621, ,sq. ft.,Sleeps: 2,Bedrooms: 1,Bathrooms: 1,Min Stay: 1–3 nights",38.0195198,-78.4723511,,165,,9165071ha
+"Apartment,480, ,sq. ft.,Sleeps: 2,Bedrooms: 1,Bathrooms: 1,Min Stay: 1–3 nights",38.0195198,-78.4723511,,177,,9165070ha
+"House,2000, ,sq. ft.,Sleeps: 6,Bedrooms: 4,Bathrooms: 1,Min Stay: 2 nights",38.0352601,-78.4777643,13 Reviews,449,Excellent! 4.3/5,960092
+"Studio,Sleeps: 2,Bedrooms: 1,Bathrooms: 1,Min Stay: 2–3 nights",38.0195198,-78.4723511,2 Reviews,143,,7160445ha
+"House,2960, ,sq. ft.,Sleeps: 8,Bedrooms: 4,Bathrooms: 5,Min Stay: 2–3 nights",38.0319301,-78.4681403,35 Reviews,452,Excellent! 4.7/5,326455ha
+"House,3123, ,sq. ft.,Sleeps: 8,Bedrooms: 3,Bathrooms: 2,Half Baths: 1,Min Stay: 2–3 nights",38.0284936,-78.5102138,5 Reviews,430,Wonderful! 4.8/5,7388327ha
+"House,Sleeps: 8,Bedrooms: 3,Bathrooms: 2,Min Stay: 2 nights",38.0264012,-78.4599847,50 Reviews,140,Very Good! 4/5,697200
+"House,Sleeps: 4,Bedrooms: 2,Bathrooms: 1,Min Stay: 2 nights",38.0264012,-78.4599847,39 Reviews,125,Wonderful! 4.9/5,1269877
+"House,995, ,sq. ft.,Sleeps: 5,Bedrooms: 2,Bathrooms: 1,Half Baths: 1,Min Stay: 2–4 nights",38.026168,-78.4959012,49 Reviews,175,Wonderful! 4.8/5,1006784
+"Cottage,650, ,sq. ft.,Sleeps: 2,Bedrooms: 1,Bathrooms: 1,Min Stay: 2–3 nights",38.0195198,-78.4723511,25 Reviews,284,Exceptional! 5/5,785819
+"House,Sleeps: 6,Bedrooms: 2,Bathrooms: 2,Min Stay: 2 nights",38.0352601,-78.4777643,19 Reviews,375,Wonderful! 4.9/5,694133
+"Studio,480, ,sq. ft.,Sleeps: 4,Bedrooms: Studio,Bathrooms: 1,Min Stay: 30 nights",38.0352601,-78.4777643,,60,,1899471
+"Townhome,2050, ,sq. ft.,Sleeps: 6,Bedrooms: 3,Bathrooms: 2,Half Baths: 1,Min Stay: 2 nights",38.0293045,-78.4766769,3 Reviews,607,Good for families,730401
+"Estate,4670, ,sq. ft.,Sleeps: 10,Bedrooms: 5,Bathrooms: 3,Min Stay: 2–3 nights",38.0399936,-78.5114241,2 Reviews,954,Good for families,7160448ha
+"House,1100, ,sq. ft.,Sleeps: 8,Bedrooms: 3,Bathrooms: 1,Half Baths: 1,Min Stay: 1–2 nights",38.0284936,-78.5102138,6 Reviews,249,Exceptional! 5/5,1046559
+"House,2000, ,sq. ft.,Sleeps: 10,Bedrooms: 3,Bathrooms: 1,Half Baths: 1,Min Stay: 2 nights",38.0178395,-78.5118525,28 Reviews,120,Good! 3.9/5,856423
+"House,3628, ,sq. ft.,Sleeps: 10,Bedrooms: 5,Bathrooms: 6,Min Stay: 2–3 nights",38.0422205,-78.4986493,,793,,9290037ha
+"House,10000, ,sq. ft.,Sleeps: 26,Bedrooms: 6,Bathrooms: 6,Half Baths: 1,Min Stay: 2–3 nights",38.048844,-78.4877415,4 Reviews,1457,Good for families,3918084ha
+"Townhome,2200, ,sq. ft.,Sleeps: 11,Bedrooms: 4,Bathrooms: 2,Half Baths: 2,Min Stay: 1 night",38.0178395,-78.5118525,3 Reviews,367,,1657766
+"House,800, ,sq. ft.,Sleeps: 4,Bedrooms: 2,Bathrooms: 1,Min Stay: 2 nights",38.0178395,-78.5118525,1 Review,145,,1322818
+"House,1100, ,sq. ft.,Sleeps: 8,Bedrooms: 3,Bathrooms: 1,Half Baths: 1,Min Stay: 2–3 nights",38.0284936,-78.5102138,3 Reviews,203,Good for families,4647389ha
+"Townhome,Sleeps: 4,Bedrooms: 2,Bathrooms: 1,Half Baths: 2,Min Stay: 2 nights",38.0293045,-78.4766769,,350,,1611268
+"House,2100, ,sq. ft.,Sleeps: 6,Bedrooms: 3,Bathrooms: 2,Half Baths: 1,Min Stay: 2 nights",38.0293045,-78.4766769,,485,,1611497
+"Townhome,Sleeps: 10,Bedrooms: 3,Bathrooms: 2,Half Baths: 1,Min Stay: 1 night",38.0178395,-78.5118525,,336,,1657808
+"House,48438, ,sq. ft.,Sleeps: 10,Bedrooms: 5,Bathrooms: 4,Min Stay: 2–3 nights",38.042244,-78.5305939,4 Reviews,781,Good for families,4064053ha
+"House,Sleeps: 14,Bedrooms: 5,Bathrooms: 6,Half Baths: 1,Min Stay: 3 nights",38.0293045,-78.4766769,3 Reviews,1293,,509731
+"House,1900, ,sq. ft.,Sleeps: 6,Bedrooms: 3,Bathrooms: 1,Half Baths: 1,Min Stay: 2 nights",38.0195198,-78.4723511,19 Reviews,293,Wonderful! 4.9/5,809871
+"House,950, ,sq. ft.,Sleeps: 4,Bedrooms: 2,Bathrooms: 1,Min Stay: 2–3 nights",38.026168,-78.4959012,1 Review,208,Good for families,7388324ha
+"House,Sleeps: 6,Bedrooms: 3,Bathrooms: 2,Half Baths: 1,Min Stay: 3 nights",38.0195198,-78.4723511,,1500,,9326044ha
+"House,Sleeps: 6,Bedrooms: 3,Bathrooms: 2,Min Stay: 3 nights",38.0399936,-78.5114241,1 Review,0,,1580590
+"House,Sleeps: 10,Bedrooms: 4,Bathrooms: 3,Min Stay: 30 nights",38.0293045,-78.4766769,,175,,1824540
+"House,5500, ,sq. ft.,Sleeps: 10,Bedrooms: 6,Bathrooms: 4,Half Baths: 1,Min Stay: 2 nights",38.0178395,-78.5118525,9 Reviews,3000,Exceptional! 5/5,472830
+"Townhome,1980, ,sq. ft.,Sleeps: 12,Bedrooms: 3,Bathrooms: 2,Half Baths: 1,Min Stay: 2 nights",38.0293045,-78.4766769,1 Review,950,,1248151
+"Apartment,300, ,sq. ft.,Sleeps: 2,Bedrooms: 1,Bathrooms: 1,Min Stay: 2 nights",38.0399418,-78.4589158,15 Reviews,67,Excellent! 4.7/5,759189
+"House,1400, ,sq. ft.,Sleeps: 5,Bedrooms: 3,Bathrooms: 2,Min Stay: 2 nights",38.0264012,-78.4599847,11 Reviews,190,Wonderful! 4.9/5,3818360ha
+"Apartment,1140, ,sq. ft.,Sleeps: 4,Bedrooms: 2,Min Stay: 1–3 nights",38.0195198,-78.4723511,,231,,9165066ha
+"House,Sleeps: 9,Bedrooms: 5,Bathrooms: 3,Min Stay: 1–2 nights",38.0422205,-78.4986493,12 Reviews,302,Wonderful! 4.8/5,7412235ha
+"House,Sleeps: 3,Bedrooms: 1,Bathrooms: 1,Min Stay: 1 night",38.0195198,-78.4723511,4 Reviews,98,,1310401
+"Condo,1, ,sq. ft.,Sleeps: 4,Bedrooms: 1,Bathrooms: 1,Min Stay: 1 night",38.0293045,-78.4766769,,104,,1814685
+"Guest House,1200, ,sq. ft.,Sleeps: 4,Bedrooms: 2,Bathrooms: 1,Min Stay: 2–3 nights",38.042244,-78.5305939,17 Reviews,288,Exceptional! 5/5,1386218
+"House,3900, ,sq. ft.,Sleeps: 6,Bedrooms: 3,Bathrooms: 3,Half Baths: 1,Min Stay: 2 nights",38.0422205,-78.4986493,4 Reviews,650,Good for families,1399878
+"House,2064, ,sq. ft.,Sleeps: 8,Bedrooms: 4,Bathrooms: 2,Min Stay: 2–3 nights",38.026168,-78.4959012,8 Reviews,455,Wonderful! 4.9/5,7160450ha
+"House,2200, ,sq. ft.,Sleeps: 6,Bedrooms: 3,Bathrooms: 2,Min Stay: 2–3 nights",38.0264012,-78.4599847,7 Reviews,609,Good! 3.9/5,7160482ha
+"Condo,890, ,sq. ft.,Sleeps: 4,Bedrooms: 1,Bathrooms: 2,Min Stay: 2–3 nights",38.0352601,-78.4777643,4 Reviews,203,Good for families,7160480ha
+"House,1564, ,sq. ft.,Sleeps: 7,Bedrooms: 4,Bathrooms: 2,Min Stay: 2–3 nights",38.0195198,-78.4723511,14 Reviews,279,Excellent! 4.4/5,921632ha
+"Hotel,253, ,sq. ft.,Sleeps: 2,Bedrooms: 1,Min Stay: 1–3 nights",38.0352601,-78.4777643,,190,,7160444ha
+"Cottage,1062, ,sq. ft.,Sleeps: 5,Bedrooms: 4,Bathrooms: 2,Min Stay: 3 nights",38.0319301,-78.4681403,,197,,1727825
+"House,1900, ,sq. ft.,Sleeps: 6,Bedrooms: 3,Bathrooms: 2,Min Stay: 2 nights",38.0284936,-78.5102138,36 Reviews,400,Wonderful! 4.9/5,587223
+"Cottage,1000, ,sq. ft.,Sleeps: 4,Bedrooms: 1,Bathrooms: 1,Min Stay: 2–3 nights",38.0178395,-78.5118525,12 Reviews,135,Wonderful! 4.9/5,1170096
+"House,1000, ,sq. ft.,Sleeps: 6,Bedrooms: 3,Bathrooms: 1,Min Stay: 2 nights",38.0399418,-78.4589158,10 Reviews,125,Wonderful! 4.9/5,1522722
+"Studio,300, ,sq. ft.,Sleeps: 2,Bedrooms: Studio,Bathrooms: 1,Min Stay: 1 night",38.0293045,-78.4766769,8 Reviews,104,Wonderful! 4.8/5,4999603ha
+"House,Sleeps: 6,Bedrooms: 3,Bathrooms: 2,Min Stay: 2 nights",38.0422205,-78.4986493,,600,,1899947
+"House,1600, ,sq. ft.,Sleeps: 6,Bedrooms: 2,Bathrooms: 2,Min Stay: 2–3 nights",38.0264012,-78.4599847,,186,,1883930
+"House,Sleeps: 6,Bedrooms: 3,Bathrooms: 2,Min Stay: 2 nights",38.0195198,-78.4723511,,175,,1845679
+"House,15220, ,sq. ft.,Sleeps: 4,Bedrooms: 2,Bathrooms: 2,Min Stay: 2–3 nights",38.0399418,-78.4589158,3 Reviews,310,Good for families,7160437ha
+"House,2300, ,sq. ft.,Sleeps: 10,Bedrooms: 4,Bathrooms: 2,Min Stay: 2 nights",38.026168,-78.4959012,17 Reviews,150,Excellent! 4.3/5,1169611
+"Bed And Breakfast,Sleeps: 6,Bedrooms: 2,Bathrooms: 1,Min Stay: 1 night",38.0195198,-78.4723511,,200,,9371995ha
+"Condo,950, ,sq. ft.,Sleeps: 4,Bedrooms: 1,Bathrooms: 1,Min Stay: 2–3 nights",38.0352601,-78.4777643,1 Review,189,Good for families,7160469ha
+"Condo,890, ,sq. ft.,Sleeps: 4,Bedrooms: 1,Min Stay: 2–3 nights",38.0352601,-78.4777643,,220,,7160481ha
+"Cottage,Sleeps: 4,Bedrooms: 2,Bathrooms: 2,Min Stay: 2 nights",38.042244,-78.5305939,23 Reviews,229,Exceptional! 5/5,1196803
+"House,Sleeps: 6,Bedrooms: 3,Bathrooms: 2,Half Baths: 1,Min Stay: 2 nights",38.0293045,-78.4766769,4 Reviews,275,,1757634
+"House,Sleeps: 4,Bedrooms: 1,Bathrooms: 1,Min Stay: 1–2 nights",38.0399418,-78.4589158,,121,,9279561ha
+"Cottage,1100, ,sq. ft.,Sleeps: 4,Bedrooms: 1,Bathrooms: 1,Min Stay: 2–3 nights",38.0293045,-78.4766769,2 Reviews,95,,7443310ha
+"House,800, ,sq. ft.,Sleeps: 4,Bedrooms: 2,Bathrooms: 1,Min Stay: 2 nights",38.0178395,-78.5118525,6 Reviews,118,Wonderful! 4.8/5,1179869
+"House,3830, ,sq. ft.,Sleeps: 8,Bedrooms: 4,Bathrooms: 4,Half Baths: 1,Min Stay: 2–3 nights",38.0399936,-78.5114241,5 Reviews,640,Exceptional! 5/5,7160440ha
+"House,5000, ,sq. ft.,Sleeps: 14,Bedrooms: 5,Bathrooms: 3,Half Baths: 1,Min Stay: 2–4 nights",38.0352601,-78.4777643,16 Reviews,703,Wonderful! 4.8/5,1050016
+"House,Sleeps: 3,Bedrooms: 1,Bathrooms: 1,Min Stay: 1 night",38.0195198,-78.4723511,,98,,1293096
+"House,3000, ,sq. ft.,Sleeps: 6,Bedrooms: 3,Bathrooms: 4,Min Stay: 5 nights",38.048844,-78.4877415,,110,,887368
+"House,Sleeps: 6,Bedrooms: 3,Bathrooms: 2,Min Stay: 2–3 nights",38.0399936,-78.5114241,,417,,9165054ha
+"Cottage,1100, ,sq. ft.,Sleeps: 2,Bedrooms: 1,Bathrooms: 1,Min Stay: 2–3 nights",38.0293045,-78.4766769,,95,,9251460ha
+"Condo,860, ,sq. ft.,Sleeps: 6,Bedrooms: 2,Bathrooms: 1,Min Stay: 2 nights",38.0293045,-78.4766769,40 Reviews,145,Excellent! 4.5/5,505005
+"Apartment,Sleeps: 4,Bedrooms: 1,Bathrooms: 1,Min Stay: 7 nights",38.026168,-78.4959012,,85,,1188958
+"Studio,550, ,sq. ft.,Sleeps: 3,Bedrooms: 1,Bathrooms: 1,Min Stay: 1–3 nights",38.0422205,-78.4986493,,357,,7186080ha
+"Apartment,Sleeps: 6,Bedrooms: 2,Bathrooms: 1,Min Stay: 2 nights",38.0284936,-78.5102138,1 Review,250,,4961946ha
+"House,2500, ,sq. ft.,Sleeps: 8,Bedrooms: 4,Bathrooms: 3,Min Stay: 2–3 nights",38.0178395,-78.5118525,10 Reviews,484,Exceptional! 5/5,4463796ha
+"House,2000, ,sq. ft.,Sleeps: 10,Bedrooms: 4,Bathrooms: 3,Min Stay: 2 nights",38.0422205,-78.4986493,,1092,,1864784
+"House,4424, ,sq. ft.,Sleeps: 10,Bedrooms: 5,Bathrooms: 5,Min Stay: 2–3 nights",38.048844,-78.4877415,10 Reviews,693,Wonderful! 4.9/5,4639060ha
+"House,1700, ,sq. ft.,Sleeps: 6,Bedrooms: 2,Min Stay: 2–3 nights",38.0293045,-78.4766769,9 Reviews,349,Excellent! 4.6/5,928312ha
+"House,5500, ,sq. ft.,Sleeps: 22,Bedrooms: 5,Bathrooms: 4,Min Stay: 1–3 nights",38.0293045,-78.4766769,38 Reviews,1054,Exceptional! 5/5,1066482
+"House,Sleeps: 4,Bedrooms: 1,Bathrooms: 1,Min Stay: 2–3 nights",38.0293045,-78.4766769,,188,,7388326ha
+"House,7000, ,sq. ft.,Sleeps: 12,Bedrooms: 5,Bathrooms: 4,Min Stay: 2–4 nights",38.0422205,-78.4986493,6 Reviews,884,Excellent! 4.5/5,4290348ha
+"House,Sleeps: 8,Bedrooms: 4,Bathrooms: 3,Half Baths: 1,Min Stay: 2–3 nights",38.0284936,-78.5102138,,482,,1827199
+"House,3300, ,sq. ft.,Sleeps: 10,Bedrooms: 4,Bathrooms: 3,Half Baths: 1,Min Stay: 2–3 nights",38.0178395,-78.5118525,26 Reviews,483,Wonderful! 4.9/5,3728982ha
+"House,3900, ,sq. ft.,Sleeps: 10,Bedrooms: 5,Bathrooms: 4,Half Baths: 1,Min Stay: 3–5 nights",38.0293045,-78.4766769,46 Reviews,600,Exceptional! 5/5,178806ha
+"House,2100, ,sq. ft.,Sleeps: 12,Bedrooms: 4,Bathrooms: 2,Half Baths: 1,Min Stay: 2 nights",38.0202891,-78.4898947,1 Review,437,,1693143
+"House,Sleeps: 4,Bedrooms: 2,Bathrooms: 1,Min Stay: 1 night",38.0352601,-78.4777643,,166,,1875503
+"House,2620, ,sq. ft.,Sleeps: 6,Bedrooms: 3,Bathrooms: 2,Min Stay: 2 nights",38.0422205,-78.4986493,,395,,1884915
+"Apartment,Sleeps: 2,Bedrooms: 1,Bathrooms: 1,Min Stay: 2–3 nights",38.0352601,-78.4777643,,261,,9272721ha
+"House,1000, ,sq. ft.,Sleeps: 4,Bedrooms: 2,Bathrooms: 2,Min Stay: 2–3 nights",38.0284936,-78.5102138,4 Reviews,249,,7494151ha
+"House,Sleeps: 6,Bedrooms: 3,Bathrooms: 2,Min Stay: 2–3 nights",38.0352601,-78.4777643,4 Reviews,366,,1597579
+"Apartment,897, ,sq. ft.,Sleeps: 2,Bedrooms: 1,Bathrooms: 1,Min Stay: 1–3 nights",38.0195198,-78.4723511,,160,,9165074ha
+"Apartment,464, ,sq. ft.,Sleeps: 2,Bedrooms: 1,Bathrooms: 1,Min Stay: 1–3 nights",38.0195198,-78.4723511,,162,,9165078ha
+"Apartment,464, ,sq. ft.,Sleeps: 2,Bedrooms: 1,Min Stay: 1–3 nights",38.0195198,-78.4723511,,153,,9165073ha
+"House,850, ,sq. ft.,Sleeps: 2,Bedrooms: 1,Min Stay: 1 night",38.0319301,-78.4681403,,192,,9165067ha
+"Apartment,391, ,sq. ft.,Sleeps: 2,Bedrooms: 1,Min Stay: 1–3 nights",38.0195198,-78.4723511,,154,,9165072ha
+"Apartment,536, ,sq. ft.,Sleeps: 2,Bedrooms: 1,Bathrooms: 1,Min Stay: 1–3 nights",38.0195198,-78.4723511,,154,,9165077ha
+"Apartment,480, ,sq. ft.,Sleeps: 2,Bedrooms: 1,Bathrooms: 1,Min Stay: 1–3 nights",38.0195198,-78.4723511,,174,,9165062ha
+"Apartment,433, ,sq. ft.,Sleeps: 2,Bedrooms: 1,Min Stay: 1–3 nights",38.0195198,-78.4723511,,132,,9165055ha
+"House,844, ,sq. ft.,Sleeps: 4,Bedrooms: 1,Bathrooms: 1,Min Stay: 2–3 nights",38.0202891,-78.4898947,16 Reviews,189,Excellent! 4.3/5,237611ha
+"House,Sleeps: 3,Bedrooms: 1,Bathrooms: 1,Min Stay: 1 night",38.0352601,-78.4777643,10 Reviews,87,Excellent! 4.6/5,4781968ha
+"Apartment,1280, ,sq. ft.,Sleeps: 3,Bedrooms: 2,Bathrooms: 1,Min Stay: 7 nights",38.0422205,-78.4986493,15 Reviews,135,Wonderful! 4.9/5,622624
+"Cabin,344, ,sq. ft.,Sleeps: 4,Bedrooms: Studio,Bathrooms: 1,Min Stay: 3 nights",38.048844,-78.4877415,19 Reviews,140,Wonderful! 4.9/5,688243
+"Apartment,750, ,sq. ft.,Sleeps: 2,Bedrooms: 1,Bathrooms: 1,Min Stay: 3 nights",38.0319301,-78.4681403,59 Reviews,150,Excellent! 4.7/5,988957ha
+"House,1000, ,sq. ft.,Sleeps: 4,Bedrooms: 2,Bathrooms: 1,Min Stay: 2 nights",38.048844,-78.4877415,33 Reviews,200,Wonderful! 4.8/5,384438
+"House,1400, ,sq. ft.,Sleeps: 6,Bedrooms: 1,Bathrooms: 1,Half Baths: 1,Min Stay: 2 nights",38.0352601,-78.4777643,86 Reviews,250,Wonderful! 4.9/5,3660449ha
+"Hotel,295, ,sq. ft.,Sleeps: 2,Bedrooms: 1,Bathrooms: 1,Min Stay: 1–3 nights",38.0352601,-78.4777643,3 Reviews,180,,7160443ha
+"House,Sleeps: 4,Bedrooms: 2,Bathrooms: 1,Min Stay: 1 night",38.0352601,-78.4777643,12 Reviews,170,Excellent! 4.5/5,4706726ha
+"Condo,Sleeps: 4,Bedrooms: 2,Bathrooms: 2,Half Baths: 1,Min Stay: 2 nights",38.0352601,-78.4777643,5 Reviews,575,Exceptional! 5/5,1433059
+"House,2266, ,sq. ft.,Sleeps: 6,Bedrooms: 3,Bathrooms: 3,Min Stay: 2–3 nights",38.0352601,-78.4777643,5 Reviews,407,Excellent! 4.6/5,7388323ha
+"Apartment,Sleeps: 2,Bedrooms: 1,Bathrooms: 1,Min Stay: 2 nights",38.026168,-78.4959012,2 Reviews,88,,4767323ha
+"Hotel,333, ,sq. ft.,Sleeps: 2,Bedrooms: 1,Bathrooms: 1,Min Stay: 1–3 nights",38.0352601,-78.4777643,2 Reviews,180,,7160441ha
+"House,Sleeps: 3,Bedrooms: 1,Bathrooms: 1,Min Stay: 2–3 nights",38.0195198,-78.4723511,7 Reviews,150,Excellent! 4.6/5,4267288ha
+"Townhome,1600, ,sq. ft.,Sleeps: 6,Bedrooms: 2,Bathrooms: 4,Min Stay: 2 nights",38.0195198,-78.4723511,42 Reviews,205,Wonderful! 4.9/5,920504
+"Condo,890, ,sq. ft.,Sleeps: 4,Bedrooms: 1,Bathrooms: 2,Min Stay: 2–3 nights",38.0352601,-78.4777643,3 Reviews,220,,7160478ha
+"Cabin,400, ,sq. ft.,Sleeps: 4,Bedrooms: 2,Half Baths: 1,Min Stay: 2 nights",38.0264012,-78.4599847,26 Reviews,79,Excellent! 4.4/5,319872
+"Bungalow,800, ,sq. ft.,Sleeps: 4,Bedrooms: 2,Bathrooms: 1,Min Stay: 2–3 nights",38.0195198,-78.4723511,61 Reviews,225,Exceptional! 5/5,333691
+"House,Sleeps: 6,Bedrooms: 3,Bathrooms: 2,Min Stay: 2–3 nights",38.0195198,-78.4723511,5 Reviews,326,Exceptional! 5/5,7388330ha
+"Cottage,800, ,sq. ft.,Sleeps: 4,Bedrooms: 1,Bathrooms: 1,Min Stay: 3 nights",38.0399936,-78.5114241,21 Reviews,175,Wonderful! 4.9/5,861878

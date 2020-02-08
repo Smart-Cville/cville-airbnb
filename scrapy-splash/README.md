@@ -17,3 +17,20 @@ scrapy crawl airbnb_spider
 
 The output file `airbnb_cville.csv` with be generated.
 
+## Scrapy shell
+
+If you need to interactively explore a page use the [shell](https://docs.scrapy.org/en/latest/topics/shell.html). This is very useful if you want to interactively test code to extract certain page elements.
+
+``` py
+url = 'https://www.vrbo.com/search/keywords:charlottesville-va-usa/@37.999184739322565,-78.53343213198241,38.07003327487784,-78.43695843813475,13z?petIncluded=false&ssr=true&adultsCount=2'
+
+scrapy shell url
+```
+That `url` is for a single of the listings in Charlottesville VA with the default search params (petIncluded, adultsCount) and a map area restriction by lattitude and longitude.
+
+If you want to try and extract chunks of the page you could do something like this in the interactive shell that is opened.
+
+```py
+response.xpath("//span[contains(@class, 'listing-bullets')]/text()").getall()
+```
+

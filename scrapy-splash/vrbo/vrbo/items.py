@@ -15,4 +15,6 @@ class VrboItem(scrapy.Item):
 	details = scrapy.Field()
 	numReviews = scrapy.Field()
 	price = scrapy.Field()
-	loc = scrapy.Field()
+	latitude = scrapy.Field()
+	longitude = scrapy.Field()
+

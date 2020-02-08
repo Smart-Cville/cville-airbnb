@@ -2,7 +2,9 @@ from scrapy import Spider, Request
 from vrbo.items import VrboItem
 from scrapy_splash import SplashRequest
 #from selenium import webdriver
-import re 
+import re
+import csv
+
 
 #################################  IMPORTANT  ################################################
 # When running this script, need to run this command in the background on a separate terminal:
@@ -17,16 +19,25 @@ class VrboSpider(Spider):
 
 	def parse(self, response):
 
+		room_ids = []
+
+		with open("manual_room_scrape.csv", newline="") as file:
+			read = csv.reader(file)
+			for row in read:
+				room_ids.append(row[0])
+
+
 	# This will become a full array of IDs and a for loop
-		room_id = "7388327ha" 
-		# url = "https://www.vrbo.com/7388327ha?noDates=true"
-		base_url = "https://www.vrbo.com/"
-		suffix_filters = "?noDates=true"
+		for room_id in room_ids:
+			#room_id = "7388327ha" 
+			# url = "https://www.vrbo.com/7160478ha?noDates=true"
+			base_url = "https://www.vrbo.com/"
+			suffix_filters = "?noDates=true"
 
-		url = base_url + room_id + suffix_filters
+			url = base_url + room_id + suffix_filters
 
-		yield SplashRequest(url, callback=self.parse_room, args = {"wait": 50}, endpoint = "render.html") 
-		
+			yield SplashRequest(url, callback=self.parse_room, args = {"wait": 5}, endpoint = "render.html") 
+			
 	def parse_room(self, response):	
 		item = VrboItem()
 
@@ -59,16 +70,18 @@ class VrboSpider(Spider):
 
 		try:
 			x = response.xpath('//script[contains(., "relatedGeographies")]/text()').get()
-			loc_pos = re.search('location', x).span()
-			loc = x[loc_pos[0]+11:loc_pos[1]+37]
+			lat = re.findall(r'"location":{"lat":(-?\d+.\d*),.*', x)
+			lon = re.findall(r'"location":{.*"lng":(-?\d+.\d*)}.*', x)
 		except:
-			loc= "?"
+			lat = "?"
+			lon = "?"
 
 		item['roomID'] = roomID
 		item['details'] = details
 		item['rating'] = rating
 		item['numReviews'] = numReviews
 		item['price'] = price
-		item['loc'] = loc
+		item['latitude'] = lat
+		item['longitude'] = lon
 
 		yield item
