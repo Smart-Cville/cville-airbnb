@@ -69,9 +69,10 @@ class VrboSpider(Spider):
 			price = ''
 
 		try:
-			x = response.xpath('//script[contains(., "relatedGeographies")]/text()').get()
-			lat = re.findall(r'"location":{"lat":(-?\d+.\d*),.*', x)
-			lon = re.findall(r'"location":{.*"lng":(-?\d+.\d*)}.*', x)
+			# I think this is JSON, but it's web messy. Lots of useful info in here like availablity by day for future
+			x = response.xpath('//script[contains(., "router")]/text()').get()
+			lat = re.findall(r'"geoCode":{.*,"latitude":(-?\d+.\d+),', x)
+			lon = re.findall(r'"geoCode":{.*,"longitude":(-\d+.\d+)}', x)
 		except:
 			lat = "?"
 			lon = "?"

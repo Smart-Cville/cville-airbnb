@@ -14,12 +14,25 @@ airbnb %>%
   geom_sf(data = tracts) +
   geom_sf(alpha = .1)
 
+# lots of dups due to multiple prices
+airbnb %>%
+  group_by(roomID) %>% 
+  summarise_if(is.numeric, mean) -> vrbo
 
+hist(airbnb$price,
+     breaks = seq(0,1000, 50))
 
-table(airbnb$roomID) %>% hist(breaks = 34)
+vrbo <- read.csv("scrapy-splash/vrbo/vrbo_cville.csv") %>% 
+  filter(!is.na(longitude))
 
-airbnb %>% add_count(roomID) %>% filter(n %in% 16:19) %>% View()
+vrbo %>% 
+  st_as_sf(coords = c("longitude", "latitude")) %>% 
+  st_set_crs(st_crs(tracts)) %>% 
+  ggplot() +
+  geom_sf(data = tracts) +
+  geom_sf(alpha = .1)
 
-hist(dat$price)
+# no dups, bc it's hand-crafted
 
-dat %>% filter(price > 800)
+hist(vrbo$price,
+     breaks = seq(0, 3000, 200))
