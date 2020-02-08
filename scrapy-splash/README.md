@@ -1,6 +1,6 @@
 # Scrapy-Splash
 
-The original scraper work is from this repo bu [Alex Dodd](https://github.com/adodd202/Airbnb_Scraping).
+The original scraper work is from this repo bu [Alex Dodd](https://github.com/adodd202/Airbnb_Scraping). This project would not have been possible without their contribution.
 
 To run either the `airbnb` or `vrbo` scraper:
 
@@ -15,9 +15,9 @@ cd airbnb
 scrapy crawl airbnb_spider
 ```
 
-The output file `airbnb_cville.csv` with be generated.
+This will generate the output file `airbnb_cville.csv`.
 
-## Scrapy shell
+### Scrapy shell
 
 If you need to interactively explore a page use the [shell](https://docs.scrapy.org/en/latest/topics/shell.html). This is very useful if you want to interactively test code to extract certain page elements.
 
@@ -34,3 +34,6 @@ If you want to try and extract chunks of the page you could do something like th
 response.xpath("//span[contains(@class, 'listing-bullets')]/text()").getall()
 ```
 
+# Scraped data
+
+The code lives in `explore.R`. It brings together the two scrape result CSVs and does some exploratory plots. It generates a webpage report, `explore.html`, and a santitized table combining both sources, `scraped_rentals.csv`, 
