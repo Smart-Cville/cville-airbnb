@@ -60,9 +60,9 @@ vrbo <- read_csv(here("scrapy-splash/vrbo/vrbo_cville.csv")) %>%
 both <- bind_rows(airbnb, vrbo) %>% 
   mutate(site = fct_rev(site),
          row_number = 1:nrow(.),
-         content = glue::glue("<a href='{url}'>{site}</a>
+         content = glue::glue("<a href='{url}'>{site}--{room_id}</a>
                               <br>
-                              {row_number}"))
+                              row-num:{row_number}"))
 
 both %>%
   group_by(longitude, latitude) %>% 
@@ -72,6 +72,24 @@ both %>%
 write_csv(both, "scraped_rentals.csv")
 
 # Plots -------------------------------------------------------------------
+#' </details>
+#' ## Plots 
+#+ plots
+
+theme_set(theme_minimal())
+
+both_long_n_trim <- both %>% 
+  select(price, rating, matches("^num"), site) %>% 
+  select(-num_host_reviews, -num_rooms) %>% 
+  pivot_longer(price:num_reviews)
+
+ggplot(both_long_n_trim, aes(x = value, color = site)) +
+  geom_density() +
+  facet_wrap(~name, scales = "free") +
+  labs(x = NULL)
+
+#' ## Maps 
+#+ maps
 
 # wrapper for sf object conversion
 sfize <- . %>% 
@@ -82,24 +100,21 @@ sfize <- . %>%
 gg_city <- function(data) {
   ggplot(data) +
     geom_sf(data = tracts) +
-    geom_sf(shape = 21)
+    geom_sf(alpha = .1)
 } 
 
-#' </details>
-#' ## Plots 
-#+ plots
+sfize(both) %>% 
+  gg_city() +
+  facet_wrap(~site) +
+  labs(title = "Where are the scraped results?")
 
-airbnb %>% sfize() %>% gg_city()
 
-vrbo %>% sfize() %>% gg_city()
+# attempt to filter by polygon overlap
+# sfize(both) %>%
+#   mutate(in_city = st_intersects(., st_union(tracts)) %>% map(~ unclass(.))) %>% pull(in_city)
+# WIP
 
-hist(vrbo$price,
-     breaks = seq(0, 3000, 200))
-
-hist(airbnb$price,
-     breaks = seq(0,1000, 50))
-
-pal <- colorFactor("PRGn", both$site)
+pal <- colorFactor("viridis", both$site)
 
 sfize(both) %>% 
   leaflet() %>%
