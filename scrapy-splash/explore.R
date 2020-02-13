@@ -3,9 +3,12 @@
 #' output: html_document
 #' ---
 
+#+ setup, include=FALSE
+knitr::opts_chunk$set(collapse = TRUE, fig.width = 9)
+
 #' ## Code
 #' <details>
-#+ hidden, message = FALSE, warning = FALSE
+#+ hidden, message = FALSE, warning = FALSE, fig.width = 12
 
 library(here)
 library(glue)
@@ -62,7 +65,11 @@ both <- bind_rows(airbnb, vrbo) %>%
          row_number = 1:nrow(.),
          content = glue::glue("<a href='{url}'>{site}--{room_id}</a>
                               <br>
-                              row-num:{row_number}"))
+                              row-num:{row_number}"),
+         min_nights = str_remove(min_nights, "–.*") %>% 
+           str_remove(" night") %>% 
+           as.numeric()) %>%
+  select_if(~ !all(is.na(.)))
 
 both %>%
   group_by(longitude, latitude) %>% 
@@ -80,7 +87,7 @@ theme_set(theme_minimal())
 
 both_long_n_trim <- both %>% 
   select(price, rating, matches("^num"), site) %>% 
-  select(-num_host_reviews, -num_rooms) %>% 
+  select(-num_rooms) %>% 
   pivot_longer(price:num_reviews)
 
 ggplot(both_long_n_trim, aes(x = value, color = site)) +
@@ -103,11 +110,35 @@ gg_city <- function(data) {
     geom_sf(alpha = .1)
 } 
 
+#' ##### Where are the scraped results?
 sfize(both) %>% 
   gg_city() +
-  facet_wrap(~site) +
-  labs(title = "Where are the scraped results?")
+  facet_wrap(~site)
 
+#' ##### Feature distributions spatial
+both %>% 
+  sfize() %>% 
+  plot(max.plot = 24)
+
+#' ##### Numeric features
+both %>% 
+  select(-latitude, -longitude, -row_number) %>%
+  select_if(is.numeric) %>% 
+  gather() %>% 
+  ggplot(aes(value)) +
+  geom_histogram() +
+  facet_wrap(~key, scales = "free", nrow = 3)
+
+#' ##### Categorical features
+both %>% 
+  select(bath_type, bed_type, min_nights, unit_type, site) %>% 
+  gather("key", "value", -site) %>% 
+  count(site, key, value) %>% 
+  mutate(value = fct_inorder(value)) %>% 
+  ggplot(aes(value, n, fill = site)) +
+  geom_col() +
+  coord_flip() +
+  facet_wrap(~key, scales = "free", nrow = 3)
 
 # attempt to filter by polygon overlap
 # sfize(both) %>%
