@@ -30,7 +30,7 @@ airbnb_readin <- . %>%
   mutate(url = paste0("https://www.airbnb.com/rooms/", room_id)) %>% 
   rename(unit_type = bedroom_type)
 
-iairbnb <- airbnb_readin( "scrapy-splash/airbnb/airbnb_cville.csv") %>% 
+airbnb <- airbnb_readin( "scrapy-splash/airbnb/airbnb_cville.csv") %>% 
   mutate(site = "airbnb")
 # lots of dups; multiple price points for the same roomID
 
