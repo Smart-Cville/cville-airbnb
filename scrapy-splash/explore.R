@@ -22,19 +22,25 @@ tracts <- read_sf("https://opendata.arcgis.com/datasets/63f965c73ddf46429befe113
 
 # Airbnb ------------------------------------------------------------------
 
-airbnb <- read_csv(here("scrapy-splash/airbnb/airbnb_cville.csv")) %>% 
+airbnb_readin <- . %>% 
+  here() %>% 
+  read_csv() %>% 
   clean_names() %>% 
   mutate_at(vars(room_id), as.character) %>% 
-  mutate(url = paste0("https://www.airbnb.com/rooms/", room_id),
-         site = "AirBnB") %>% 
+  mutate(url = paste0("https://www.airbnb.com/rooms/", room_id)) %>% 
   rename(unit_type = bedroom_type)
 
+iairbnb <- airbnb_readin( "scrapy-splash/airbnb/airbnb_cville.csv") %>% 
+  mutate(site = "airbnb")
 # lots of dups; multiple price points for the same roomID
-airbnb %<>%
+
+airbnb_dedup <- . %>% 
   group_by(room_id) %>% 
   mutate(price = mean(price)) %>% 
   slice(1) %>% 
   group_by()
+
+airbnb %<>% airbnb_dedup()
 
 # VRBO --------------------------------------------------------------------
 
@@ -74,7 +80,7 @@ both <- bind_rows(airbnb, vrbo) %>%
 both %>%
   group_by(longitude, latitude) %>% 
   count() %>%
-  filter(n != 1) # no dupes by coordinates!
+  filter(n != 1) # no dupe locations
 
 write_csv(both, "scraped_rentals.csv")
 
@@ -113,7 +119,8 @@ gg_city <- function(data) {
 #' ##### Where are the scraped results?
 sfize(both) %>% 
   gg_city() +
-  facet_wrap(~site)
+  facet_wrap(~site) +
+  labs(title = "Scraped locations over Census tracts")
 
 #' ##### Feature distributions spatial
 both %>% 
@@ -152,4 +159,6 @@ sfize(both) %>%
   addTiles() %>% 
   addCircleMarkers(color = ~pal(site), radius = 5, popup = ~content) %>% 
   addLegend("topright", pal, ~site)
+
+
 

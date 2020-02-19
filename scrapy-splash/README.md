@@ -17,6 +17,14 @@ scrapy crawl airbnb_spider
 
 This will generate the output file `airbnb_cville.csv`.
 
+### Scrapes
+
+| path | desc | date (ish) |
+| --- | --- | --- |
+| airbnb | bounding box restricted to Charlottesville | 2019-01-01 |
+| vrbo | bounding box restricted to Charlottesville | 2019-02-01 |
+| airbnb-dates | airbnb + date filetered Mon(2020-11-02) - Friday(2020-11-06) | 2019-02-18 |
+
 ### Scrapy shell
 
 If you need to interactively explore a page use the [shell](https://docs.scrapy.org/en/latest/topics/shell.html). This is very useful if you want to interactively test code to extract certain page elements.
@@ -34,6 +42,6 @@ If you want to try and extract chunks of the page you could do something like th
 response.xpath("//span[contains(@class, 'listing-bullets')]/text()").getall()
 ```
 
-# Scraped data
+### Scraped data
 
-The code lives in `explore.R`. It brings together the two scrape result CSVs and does some exploratory plots. It generates a webpage report, `explore.html`, and a santitized table combining both sources, `scraped_rentals.csv`, 
+The code lives in `explore.R`. It brings together the individual scrape results and does some exploratory plots. It generates a webpage report, `explore.html`, and a santitized table combining both sources, `scraped_rentals.csv`.
