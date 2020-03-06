@@ -89,7 +89,7 @@ write_csv(both, "scraped_rentals.csv")
 #' ## Plots 
 #+ plots
 
-theme_set(theme_minimal())
+theme_set(theme_minimal(base_size = 18))
 
 both_long_n_trim <- both %>% 
   select(price, rating, matches("^num"), site) %>% 
@@ -106,7 +106,7 @@ ggplot(both_long_n_trim, aes(x = value, color = site)) +
 
 # wrapper for sf object conversion
 sfize <- . %>% 
-  st_as_sf(coords = c("longitude", "latitude")) %>% 
+  st_as_sf(coords = c("longitude", "latitude"), remove = FALSE) %>% 
   st_set_crs(st_crs(tracts))
 
 # wrapper for reused ggplot

@@ -23,7 +23,9 @@ This will generate the output file `airbnb_cville.csv`.
 | --- | --- | --- |
 | airbnb | bounding box restricted to Charlottesville | 2019-01-01 |
 | vrbo | bounding box restricted to Charlottesville | 2019-02-01 |
-| airbnb-dates | airbnb + date filetered Mon(2020-11-02) - Friday(2020-11-06) | 2019-02-18 |
+| airbnb-oct | airbnb + date filetered Mon(2020-10-05) - Friday(2020-10-09) | 2019-02-24 |
+| airbnb-nov | airbnb + date filetered Mon(2020-11-02) - Friday(2020-11-06) | 2019-02-18 |
+| airbnb-dec | airbnb + date filetered Mon(2020-12-07) - Friday(2020-12-11) | 2019-02-23 |
 
 ### Scrapy shell
 
