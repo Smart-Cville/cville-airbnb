@@ -1,0 +1,1090 @@
+accuracy,bath_type,bed_type,unit_type,checkin,cleanliness,communication,guest_satisfaction,latitude,location,longitude,num_baths,num_beds,num_guests,num_reviews,num_rooms,price,rating,room_id,value,url,site,sq_ft,min_nights,row_number,content
+10,bath,beds,Studio,10,10,10,95,38.03633,10,-78.49413,1,0,3,461,0,95,5,10225093,10,https://www.airbnb.com/rooms/10225093,airbnb,NA,NA,1,"<a href='https://www.airbnb.com/rooms/10225093'>airbnb--10225093</a>
+<br>
+row-num:1"
+10,shared baths,bed,bedroom,10,10,10,98,38.01729,10,-78.49419,1.5,1,2,144,1,55.85,5,10710588,10,https://www.airbnb.com/rooms/10710588,airbnb,NA,NA,2,"<a href='https://www.airbnb.com/rooms/10710588'>airbnb--10710588</a>
+<br>
+row-num:2"
+10,bath,bed,Studio,10,10,10,97,38.02072,10,-78.47595,1,1,2,139,0,99,5,10983225,10,https://www.airbnb.com/rooms/10983225,airbnb,NA,NA,3,"<a href='https://www.airbnb.com/rooms/10983225'>airbnb--10983225</a>
+<br>
+row-num:3"
+10,shared bath,bed,bedroom,10,10,10,98,38.01857,10,-78.49555,1,1,2,194,1,55.88235294117647,5,11557016,10,https://www.airbnb.com/rooms/11557016,airbnb,NA,NA,4,"<a href='https://www.airbnb.com/rooms/11557016'>airbnb--11557016</a>
+<br>
+row-num:4"
+10,bath,beds,bedroom,10,10,10,100,38.03833,10,-78.51324,1,2,4,42,1,147.5,5,11733216,10,https://www.airbnb.com/rooms/11733216,airbnb,NA,NA,5,"<a href='https://www.airbnb.com/rooms/11733216'>airbnb--11733216</a>
+<br>
+row-num:5"
+10,bath,beds,bedrooms,10,10,10,97,38.04001,10,-78.49236,1,2,4,287,2,180,5,1186869,10,https://www.airbnb.com/rooms/1186869,airbnb,NA,NA,6,"<a href='https://www.airbnb.com/rooms/1186869'>airbnb--1186869</a>
+<br>
+row-num:6"
+10,baths,beds,bedrooms,10,10,10,97,38.01894,10,-78.49239,2.5,5,2,37,4,199,5,11926883,10,https://www.airbnb.com/rooms/11926883,airbnb,NA,NA,7,"<a href='https://www.airbnb.com/rooms/11926883'>airbnb--11926883</a>
+<br>
+row-num:7"
+10,bath,bed,bedroom,10,10,10,96,38.03375,10,-78.48037,1,1,2,38,1,162,5,12125053,10,https://www.airbnb.com/rooms/12125053,airbnb,NA,NA,8,"<a href='https://www.airbnb.com/rooms/12125053'>airbnb--12125053</a>
+<br>
+row-num:8"
+10,private bath,beds,bedrooms,10,10,10,96,38.03268,10,-78.47859,1,3,2,46,2,129,5,12145205,10,https://www.airbnb.com/rooms/12145205,airbnb,NA,NA,9,"<a href='https://www.airbnb.com/rooms/12145205'>airbnb--12145205</a>
+<br>
+row-num:9"
+10,baths,beds,bedrooms,10,10,10,97,37.99578,10,-78.50002,2.5,5,6,83,3,150,5,12418086,10,https://www.airbnb.com/rooms/12418086,airbnb,NA,NA,10,"<a href='https://www.airbnb.com/rooms/12418086'>airbnb--12418086</a>
+<br>
+row-num:10"
+NA,baths,beds,bedrooms,NA,NA,NA,NA,38.01762,NA,-78.49418,2.5,5,0,NA,4,999,NA,12446603,NA,https://www.airbnb.com/rooms/12446603,airbnb,NA,NA,11,"<a href='https://www.airbnb.com/rooms/12446603'>airbnb--12446603</a>
+<br>
+row-num:11"
+10,baths,beds,bedrooms,10,9,10,90,38.02639,10,-78.51526,1.5,3,8,62,3,139,4.5,12683942,9,https://www.airbnb.com/rooms/12683942,airbnb,NA,NA,12,"<a href='https://www.airbnb.com/rooms/12683942'>airbnb--12683942</a>
+<br>
+row-num:12"
+10,bath,beds,bedrooms,10,10,10,98,38.04642,10,-78.4818,1,2,5,56,2,150,5,12710108,10,https://www.airbnb.com/rooms/12710108,airbnb,NA,NA,13,"<a href='https://www.airbnb.com/rooms/12710108'>airbnb--12710108</a>
+<br>
+row-num:13"
+10,bath,bed,bedroom,10,10,10,97,38.0307,10,-78.48131,1,1,2,79,1,129,5,13058472,10,https://www.airbnb.com/rooms/13058472,airbnb,NA,NA,14,"<a href='https://www.airbnb.com/rooms/13058472'>airbnb--13058472</a>
+<br>
+row-num:14"
+10,bath,bed,bedroom,10,10,10,98,38.03051,10,-78.48298,1,1,2,16,1,139,5,13058517,10,https://www.airbnb.com/rooms/13058517,airbnb,NA,NA,15,"<a href='https://www.airbnb.com/rooms/13058517'>airbnb--13058517</a>
+<br>
+row-num:15"
+9,bath,bed,bedroom,10,8,9,91,38.08238,10,-78.49613,1,1,2,223,1,89.5,4.5,13393248,8,https://www.airbnb.com/rooms/13393248,airbnb,NA,NA,16,"<a href='https://www.airbnb.com/rooms/13393248'>airbnb--13393248</a>
+<br>
+row-num:16"
+10,baths,beds,bedrooms,10,10,10,97,38.03027,9,-78.46352,2,3,4,73,2,162,5,13544918,10,https://www.airbnb.com/rooms/13544918,airbnb,NA,NA,17,"<a href='https://www.airbnb.com/rooms/13544918'>airbnb--13544918</a>
+<br>
+row-num:17"
+10,bath,bed,bedroom,10,10,10,96,38.02607,10,-78.47695,1,1,2,218,1,70,5,13680171,10,https://www.airbnb.com/rooms/13680171,airbnb,NA,NA,18,"<a href='https://www.airbnb.com/rooms/13680171'>airbnb--13680171</a>
+<br>
+row-num:18"
+10,bath,beds,bedrooms,10,10,10,98,38.02077,10,-78.48313,1,3,4,185,2,86,5,13743664,10,https://www.airbnb.com/rooms/13743664,airbnb,NA,NA,19,"<a href='https://www.airbnb.com/rooms/13743664'>airbnb--13743664</a>
+<br>
+row-num:19"
+10,bath,beds,bedroom,10,10,10,100,38.03717,10,-78.53138,1,2,3,42,1,131,5,13892101,10,https://www.airbnb.com/rooms/13892101,airbnb,NA,NA,20,"<a href='https://www.airbnb.com/rooms/13892101'>airbnb--13892101</a>
+<br>
+row-num:20"
+10,baths,bed,bedroom,10,10,10,96,38.02467,10,-78.47741,1.5,1,2,25,1,150,5,14393956,10,https://www.airbnb.com/rooms/14393956,airbnb,NA,NA,21,"<a href='https://www.airbnb.com/rooms/14393956'>airbnb--14393956</a>
+<br>
+row-num:21"
+9,shared bath,beds,bedrooms,10,10,10,96,38.02628,10,-78.47788,1,3,4,16,2,199,5,14397945,10,https://www.airbnb.com/rooms/14397945,airbnb,NA,NA,22,"<a href='https://www.airbnb.com/rooms/14397945'>airbnb--14397945</a>
+<br>
+row-num:22"
+10,bath,beds,bedrooms,10,10,10,94,38.03304,10,-78.46171,1,4,6,129,3,132,4.5,14535650,10,https://www.airbnb.com/rooms/14535650,airbnb,NA,NA,23,"<a href='https://www.airbnb.com/rooms/14535650'>airbnb--14535650</a>
+<br>
+row-num:23"
+10,bath,beds,bedrooms,10,9,10,94,38.02266,10,-78.47654,1,2,3,305,2,120,4.5,1497051,9,https://www.airbnb.com/rooms/1497051,airbnb,NA,NA,24,"<a href='https://www.airbnb.com/rooms/1497051'>airbnb--1497051</a>
+<br>
+row-num:24"
+10,bath,bed,Studio,10,10,10,97,38.03036,10,-78.4825,1,1,2,253,0,69.66666666666667,5,15267062,10,https://www.airbnb.com/rooms/15267062,airbnb,NA,NA,25,"<a href='https://www.airbnb.com/rooms/15267062'>airbnb--15267062</a>
+<br>
+row-num:25"
+10,bath,bed,bedroom,10,10,10,99,38.02316,10,-78.4713,1,1,2,143,1,65.66666666666667,5,15278354,10,https://www.airbnb.com/rooms/15278354,airbnb,NA,NA,26,"<a href='https://www.airbnb.com/rooms/15278354'>airbnb--15278354</a>
+<br>
+row-num:26"
+10,baths,beds,bedrooms,10,10,10,96,38.02852,10,-78.50556,2,3,4,134,3,111,5,15480263,10,https://www.airbnb.com/rooms/15480263,airbnb,NA,NA,27,"<a href='https://www.airbnb.com/rooms/15480263'>airbnb--15480263</a>
+<br>
+row-num:27"
+10,baths,beds,bedrooms,10,10,10,98,37.99063,10,-78.43742,5.5,6,0,20,6,999,5,15581613,10,https://www.airbnb.com/rooms/15581613,airbnb,NA,NA,28,"<a href='https://www.airbnb.com/rooms/15581613'>airbnb--15581613</a>
+<br>
+row-num:28"
+10,bath,beds,bedrooms,10,9,10,96,38.0198,9,-78.46376,1,3,6,602,3,85,5,1560850,9,https://www.airbnb.com/rooms/1560850,airbnb,NA,NA,29,"<a href='https://www.airbnb.com/rooms/1560850'>airbnb--1560850</a>
+<br>
+row-num:29"
+10,bath,beds,bedroom,10,10,10,97,38.03727,10,-78.47854,1,2,4,147,1,54.705882352941174,5,156430,10,https://www.airbnb.com/rooms/156430,airbnb,NA,NA,30,"<a href='https://www.airbnb.com/rooms/156430'>airbnb--156430</a>
+<br>
+row-num:30"
+10,bath,beds,bedroom,10,10,10,99,38.03583,10,-78.46978,1,3,5,111,1,112.5,5,15757452,10,https://www.airbnb.com/rooms/15757452,airbnb,NA,NA,31,"<a href='https://www.airbnb.com/rooms/15757452'>airbnb--15757452</a>
+<br>
+row-num:31"
+10,bath,beds,Studio,10,10,10,100,38.02612,10,-78.48085,1,2,4,272,0,155,5,15949087,10,https://www.airbnb.com/rooms/15949087,airbnb,NA,NA,32,"<a href='https://www.airbnb.com/rooms/15949087'>airbnb--15949087</a>
+<br>
+row-num:32"
+10,shared bath,beds,bedroom,10,9,10,91,38.03023,10,-78.48867,1,2,2,206,1,81,4.5,1601402,9,https://www.airbnb.com/rooms/1601402,airbnb,NA,NA,33,"<a href='https://www.airbnb.com/rooms/1601402'>airbnb--1601402</a>
+<br>
+row-num:33"
+10,baths,beds,bedrooms,10,10,10,97,38.02595,10,-78.50079,2,6,9,69,5,199,5,16063816,10,https://www.airbnb.com/rooms/16063816,airbnb,NA,NA,34,"<a href='https://www.airbnb.com/rooms/16063816'>airbnb--16063816</a>
+<br>
+row-num:34"
+10,bath,beds,bedroom,10,10,10,99,38.01542,10,-78.48487,1,2,3,69,1,70,5,16228345,10,https://www.airbnb.com/rooms/16228345,airbnb,NA,NA,35,"<a href='https://www.airbnb.com/rooms/16228345'>airbnb--16228345</a>
+<br>
+row-num:35"
+10,bath,bed,bedroom,10,10,10,96,38.02408,10,-78.4769,1,1,2,31,1,120,5,16283532,10,https://www.airbnb.com/rooms/16283532,airbnb,NA,NA,36,"<a href='https://www.airbnb.com/rooms/16283532'>airbnb--16283532</a>
+<br>
+row-num:36"
+10,bath,beds,bedrooms,10,10,10,98,38.02128,10,-78.48453,1,3,6,27,3,195,5,16435125,10,https://www.airbnb.com/rooms/16435125,airbnb,NA,NA,37,"<a href='https://www.airbnb.com/rooms/16435125'>airbnb--16435125</a>
+<br>
+row-num:37"
+10,bath,beds,bedroom,10,10,10,96,38.0192,10,-78.49408,1,2,3,119,1,99,5,16585621,10,https://www.airbnb.com/rooms/16585621,airbnb,NA,NA,38,"<a href='https://www.airbnb.com/rooms/16585621'>airbnb--16585621</a>
+<br>
+row-num:38"
+10,bath,bed,Studio,10,10,10,99,38.03033,10,-78.48274,1,1,2,201,0,90,5,16788993,10,https://www.airbnb.com/rooms/16788993,airbnb,NA,NA,39,"<a href='https://www.airbnb.com/rooms/16788993'>airbnb--16788993</a>
+<br>
+row-num:39"
+10,shared bath,beds,bedroom,10,10,10,98,38.01636,10,-78.47254,1,2,2,126,1,57.470588235294116,5,16970527,10,https://www.airbnb.com/rooms/16970527,airbnb,NA,NA,40,"<a href='https://www.airbnb.com/rooms/16970527'>airbnb--16970527</a>
+<br>
+row-num:40"
+10,bath,beds,bedroom,10,10,10,99,38.02553,10,-78.48166,1,2,4,194,1,75,5,17210204,10,https://www.airbnb.com/rooms/17210204,airbnb,NA,NA,41,"<a href='https://www.airbnb.com/rooms/17210204'>airbnb--17210204</a>
+<br>
+row-num:41"
+10,bath,beds,Studio,10,10,10,98,38.02954,10,-78.4833,1,2,3,214,0,99,5,17284213,10,https://www.airbnb.com/rooms/17284213,airbnb,NA,NA,42,"<a href='https://www.airbnb.com/rooms/17284213'>airbnb--17284213</a>
+<br>
+row-num:42"
+10,bath,beds,bedroom,10,10,10,97,38.02624,10,-78.47314,1,2,4,295,1,52.705882352941174,5,17337587,10,https://www.airbnb.com/rooms/17337587,airbnb,NA,NA,43,"<a href='https://www.airbnb.com/rooms/17337587'>airbnb--17337587</a>
+<br>
+row-num:43"
+10,bath,bed,bedroom,10,10,10,97,38.02068,10,-78.511,1,1,2,87,1,59.16,5,17460536,10,https://www.airbnb.com/rooms/17460536,airbnb,NA,NA,44,"<a href='https://www.airbnb.com/rooms/17460536'>airbnb--17460536</a>
+<br>
+row-num:44"
+10,bath,beds,bedrooms,10,10,10,99,38.02387,10,-78.47625,1,3,6,124,3,90,5,17971569,10,https://www.airbnb.com/rooms/17971569,airbnb,NA,NA,45,"<a href='https://www.airbnb.com/rooms/17971569'>airbnb--17971569</a>
+<br>
+row-num:45"
+10,bath,beds,bedroom,10,10,10,100,38.01745,10,-78.50099,1,2,3,219,1,90,5,18601797,10,https://www.airbnb.com/rooms/18601797,airbnb,NA,NA,46,"<a href='https://www.airbnb.com/rooms/18601797'>airbnb--18601797</a>
+<br>
+row-num:46"
+10,private bath,bed,bedroom,10,10,10,100,38.04799,10,-78.49198,1,1,2,240,1,66.66666666666667,5,18663946,10,https://www.airbnb.com/rooms/18663946,airbnb,NA,NA,47,"<a href='https://www.airbnb.com/rooms/18663946'>airbnb--18663946</a>
+<br>
+row-num:47"
+10,bath,beds,bedroom,10,10,10,98,38.02533,10,-78.47852,1,2,6,235,1,63,5,18689465,10,https://www.airbnb.com/rooms/18689465,airbnb,NA,NA,48,"<a href='https://www.airbnb.com/rooms/18689465'>airbnb--18689465</a>
+<br>
+row-num:48"
+10,bath,beds,bedroom,10,10,10,100,38.03387,10,-78.49075,1,2,4,161,1,82,5,18689593,10,https://www.airbnb.com/rooms/18689593,airbnb,NA,NA,49,"<a href='https://www.airbnb.com/rooms/18689593'>airbnb--18689593</a>
+<br>
+row-num:49"
+10,bath,beds,Studio,10,10,10,98,38.02143,10,-78.45734,1,2,3,117,0,75,5,19659797,10,https://www.airbnb.com/rooms/19659797,airbnb,NA,NA,50,"<a href='https://www.airbnb.com/rooms/19659797'>airbnb--19659797</a>
+<br>
+row-num:50"
+10,private bath,bed,bedroom,10,10,10,99,38.06763,10,-78.49753,1,1,2,44,1,45,5,19742625,10,https://www.airbnb.com/rooms/19742625,airbnb,NA,NA,51,"<a href='https://www.airbnb.com/rooms/19742625'>airbnb--19742625</a>
+<br>
+row-num:51"
+10,baths,beds,bedrooms,10,10,10,97,38.03215,10,-78.48989,2,5,8,58,3,180,5,19796446,10,https://www.airbnb.com/rooms/19796446,airbnb,NA,NA,52,"<a href='https://www.airbnb.com/rooms/19796446'>airbnb--19796446</a>
+<br>
+row-num:52"
+10,bath,bed,Studio,10,10,10,98,38.02977,10,-78.48307,1,1,2,173,0,70,5,19806418,10,https://www.airbnb.com/rooms/19806418,airbnb,NA,NA,53,"<a href='https://www.airbnb.com/rooms/19806418'>airbnb--19806418</a>
+<br>
+row-num:53"
+10,bath,bed,Studio,10,10,10,99,38.04973,10,-78.4875,1,1,2,82,0,89,5,19857767,10,https://www.airbnb.com/rooms/19857767,airbnb,NA,NA,54,"<a href='https://www.airbnb.com/rooms/19857767'>airbnb--19857767</a>
+<br>
+row-num:54"
+10,bath,bed,bedroom,10,9,10,95,38.02205,10,-78.51655,1,1,3,39,1,55.166666666666664,5,19912330,9,https://www.airbnb.com/rooms/19912330,airbnb,NA,NA,55,"<a href='https://www.airbnb.com/rooms/19912330'>airbnb--19912330</a>
+<br>
+row-num:55"
+10,baths,beds,bedrooms,10,10,10,95,38.03696,10,-78.47384,1.5,3,4,69,2,139.5,5,19965494,10,https://www.airbnb.com/rooms/19965494,airbnb,NA,NA,56,"<a href='https://www.airbnb.com/rooms/19965494'>airbnb--19965494</a>
+<br>
+row-num:56"
+10,bath,bed,bedroom,10,10,10,100,38.0608,10,-78.48007,1,1,4,16,1,109,5,20016322,10,https://www.airbnb.com/rooms/20016322,airbnb,NA,NA,57,"<a href='https://www.airbnb.com/rooms/20016322'>airbnb--20016322</a>
+<br>
+row-num:57"
+10,bath,beds,bedroom,10,10,10,100,38.02269,10,-78.48604,1,2,4,75,1,81,5,20193549,10,https://www.airbnb.com/rooms/20193549,airbnb,NA,NA,58,"<a href='https://www.airbnb.com/rooms/20193549'>airbnb--20193549</a>
+<br>
+row-num:58"
+10,baths,beds,bedrooms,10,10,10,98,38.02689,10,-78.51765,3.5,5,0,75,4,149,5,20278927,10,https://www.airbnb.com/rooms/20278927,airbnb,NA,NA,59,"<a href='https://www.airbnb.com/rooms/20278927'>airbnb--20278927</a>
+<br>
+row-num:59"
+10,bath,beds,bedrooms,10,10,10,98,38.02667,10,-78.47582,1,3,5,24,2,139.5,5,20283849,10,https://www.airbnb.com/rooms/20283849,airbnb,NA,NA,60,"<a href='https://www.airbnb.com/rooms/20283849'>airbnb--20283849</a>
+<br>
+row-num:60"
+10,bath,beds,bedrooms,10,10,10,100,38.01999,10,-78.50972,1,3,6,57,3,150,5,20430324,10,https://www.airbnb.com/rooms/20430324,airbnb,NA,NA,61,"<a href='https://www.airbnb.com/rooms/20430324'>airbnb--20430324</a>
+<br>
+row-num:61"
+10,bath,bed,bedroom,10,10,10,100,38.03368,10,-78.46706,1,1,2,93,1,122,5,20540526,10,https://www.airbnb.com/rooms/20540526,airbnb,NA,NA,62,"<a href='https://www.airbnb.com/rooms/20540526'>airbnb--20540526</a>
+<br>
+row-num:62"
+10,bath,beds,bedrooms,10,9,10,96,38.01862,10,-78.48489,1,2,4,138,2,90,5,20640006,9,https://www.airbnb.com/rooms/20640006,airbnb,NA,NA,63,"<a href='https://www.airbnb.com/rooms/20640006'>airbnb--20640006</a>
+<br>
+row-num:63"
+10,bath,beds,bedrooms,10,10,10,97,38.03609,10,-78.47973,1,2,4,74,2,149.5,5,20693516,10,https://www.airbnb.com/rooms/20693516,airbnb,NA,NA,64,"<a href='https://www.airbnb.com/rooms/20693516'>airbnb--20693516</a>
+<br>
+row-num:64"
+10,bath,beds,bedrooms,10,9,10,96,38.02099,10,-78.47609,1,2,4,31,2,131,5,20744879,9,https://www.airbnb.com/rooms/20744879,airbnb,NA,NA,65,"<a href='https://www.airbnb.com/rooms/20744879'>airbnb--20744879</a>
+<br>
+row-num:65"
+10,baths,beds,bedrooms,10,9,10,100,38.05663,10,-78.43222,2,3,5,10,3,175,5,20841964,9,https://www.airbnb.com/rooms/20841964,airbnb,NA,NA,66,"<a href='https://www.airbnb.com/rooms/20841964'>airbnb--20841964</a>
+<br>
+row-num:66"
+10,baths,beds,bedrooms,10,9,10,95,38.02565,10,-78.51204,2,6,5,43,4,155,5,20846106,9,https://www.airbnb.com/rooms/20846106,airbnb,NA,NA,67,"<a href='https://www.airbnb.com/rooms/20846106'>airbnb--20846106</a>
+<br>
+row-num:67"
+10,shared bath,bed,bedroom,10,10,10,99,38.0202,10,-78.48129,1,1,1,75,1,46.77777777777778,5,21043207,10,https://www.airbnb.com/rooms/21043207,airbnb,NA,NA,68,"<a href='https://www.airbnb.com/rooms/21043207'>airbnb--21043207</a>
+<br>
+row-num:68"
+10,private bath,bed,bedroom,10,10,10,97,38.03192,10,-78.4902,1,1,2,106,1,45,5,21091524,10,https://www.airbnb.com/rooms/21091524,airbnb,NA,NA,69,"<a href='https://www.airbnb.com/rooms/21091524'>airbnb--21091524</a>
+<br>
+row-num:69"
+NA,baths,beds,bedrooms,NA,NA,NA,NA,38.05214,NA,-78.48835,4.5,5,0,NA,5,999,NA,21204898,NA,https://www.airbnb.com/rooms/21204898,airbnb,NA,NA,70,"<a href='https://www.airbnb.com/rooms/21204898'>airbnb--21204898</a>
+<br>
+row-num:70"
+10,bath,beds,bedrooms,10,10,10,100,38.0213,10,-78.4821,1,3,7,93,3,150,5,21413176,10,https://www.airbnb.com/rooms/21413176,airbnb,NA,NA,71,"<a href='https://www.airbnb.com/rooms/21413176'>airbnb--21413176</a>
+<br>
+row-num:71"
+NA,bath,bed,bedroom,NA,NA,NA,NA,38.03791,NA,-78.47846,1,1,2,NA,1,200,NA,21796270,NA,https://www.airbnb.com/rooms/21796270,airbnb,NA,NA,72,"<a href='https://www.airbnb.com/rooms/21796270'>airbnb--21796270</a>
+<br>
+row-num:72"
+10,shared bath,bed,bedroom,10,10,10,96,38.02087,10,-78.49163,1,1,2,94,1,70,5,21935426,10,https://www.airbnb.com/rooms/21935426,airbnb,NA,NA,73,"<a href='https://www.airbnb.com/rooms/21935426'>airbnb--21935426</a>
+<br>
+row-num:73"
+10,bath,beds,bedrooms,10,10,10,97,38.02333,10,-78.50342,1,3,4,157,2,90,5,22097621,10,https://www.airbnb.com/rooms/22097621,airbnb,NA,NA,74,"<a href='https://www.airbnb.com/rooms/22097621'>airbnb--22097621</a>
+<br>
+row-num:74"
+10,bath,beds,bedroom,10,10,10,98,38.02579,10,-78.47593,1,2,3,143,1,63,5,22626013,10,https://www.airbnb.com/rooms/22626013,airbnb,NA,NA,75,"<a href='https://www.airbnb.com/rooms/22626013'>airbnb--22626013</a>
+<br>
+row-num:75"
+10,bath,beds,bedrooms,10,10,10,99,38.03125,10,-78.46426,1,3,5,158,2,118,5,22764510,10,https://www.airbnb.com/rooms/22764510,airbnb,NA,NA,76,"<a href='https://www.airbnb.com/rooms/22764510'>airbnb--22764510</a>
+<br>
+row-num:76"
+10,bath,beds,bedroom,10,10,10,98,38.0487,10,-78.46341,1,2,3,61,1,100,5,22794509,10,https://www.airbnb.com/rooms/22794509,airbnb,NA,NA,77,"<a href='https://www.airbnb.com/rooms/22794509'>airbnb--22794509</a>
+<br>
+row-num:77"
+10,bath,bed,Studio,10,10,10,99,38.0272,10,-78.47671,1,1,2,57,0,120,5,22815865,10,https://www.airbnb.com/rooms/22815865,airbnb,NA,NA,78,"<a href='https://www.airbnb.com/rooms/22815865'>airbnb--22815865</a>
+<br>
+row-num:78"
+10,bath,beds,bedrooms,10,10,10,100,38.02661,10,-78.47699,1,4,6,62,3,199,5,22944571,10,https://www.airbnb.com/rooms/22944571,airbnb,NA,NA,79,"<a href='https://www.airbnb.com/rooms/22944571'>airbnb--22944571</a>
+<br>
+row-num:79"
+10,bath,bed,bedroom,10,10,10,98,38.02289,10,-78.47395,1,1,4,187,1,70.25,5,23004014,10,https://www.airbnb.com/rooms/23004014,airbnb,NA,NA,80,"<a href='https://www.airbnb.com/rooms/23004014'>airbnb--23004014</a>
+<br>
+row-num:80"
+10,bath,beds,bedrooms,10,10,10,99,38.02692,10,-78.48636,1,2,6,32,2,160,5,23163410,10,https://www.airbnb.com/rooms/23163410,airbnb,NA,NA,81,"<a href='https://www.airbnb.com/rooms/23163410'>airbnb--23163410</a>
+<br>
+row-num:81"
+10,bath,beds,bedroom,10,10,10,97,38.02612,10,-78.47463,1,2,3,159,1,57.59090909090909,5,23271179,10,https://www.airbnb.com/rooms/23271179,airbnb,NA,NA,82,"<a href='https://www.airbnb.com/rooms/23271179'>airbnb--23271179</a>
+<br>
+row-num:82"
+10,bath,bed,bedroom,10,10,10,100,38.0302,10,-78.50518,1,1,2,26,1,150,5,23336579,10,https://www.airbnb.com/rooms/23336579,airbnb,NA,NA,83,"<a href='https://www.airbnb.com/rooms/23336579'>airbnb--23336579</a>
+<br>
+row-num:83"
+10,bath,beds,bedroom,10,10,10,99,38.01757,10,-78.51758,1,3,4,30,1,195,5,23416479,10,https://www.airbnb.com/rooms/23416479,airbnb,NA,NA,84,"<a href='https://www.airbnb.com/rooms/23416479'>airbnb--23416479</a>
+<br>
+row-num:84"
+10,bath,beds,bedroom,10,10,10,100,38.05662,10,-78.46266,1,2,4,132,1,70,5,23542836,10,https://www.airbnb.com/rooms/23542836,airbnb,NA,NA,85,"<a href='https://www.airbnb.com/rooms/23542836'>airbnb--23542836</a>
+<br>
+row-num:85"
+10,baths,beds,bedrooms,10,10,10,96,38.06949,10,-78.49211,2,4,7,134,3,174,5,236217,10,https://www.airbnb.com/rooms/236217,airbnb,NA,NA,86,"<a href='https://www.airbnb.com/rooms/236217'>airbnb--236217</a>
+<br>
+row-num:86"
+10,bath,beds,bedroom,10,10,10,98,38.02619,10,-78.48698,1,2,2,68,1,60,5,23626199,10,https://www.airbnb.com/rooms/23626199,airbnb,NA,NA,87,"<a href='https://www.airbnb.com/rooms/23626199'>airbnb--23626199</a>
+<br>
+row-num:87"
+10,bath,beds,bedrooms,10,10,10,98,38.01404,10,-78.48046,1,5,7,18,3,183,5,23693768,10,https://www.airbnb.com/rooms/23693768,airbnb,NA,NA,88,"<a href='https://www.airbnb.com/rooms/23693768'>airbnb--23693768</a>
+<br>
+row-num:88"
+10,bath,beds,bedrooms,10,10,10,98,38.03026,10,-78.46636,1,2,6,146,2,99,5,23698746,10,https://www.airbnb.com/rooms/23698746,airbnb,NA,NA,89,"<a href='https://www.airbnb.com/rooms/23698746'>airbnb--23698746</a>
+<br>
+row-num:89"
+10,bath,bed,bedroom,10,10,10,100,38.02568,10,-78.4803,1,1,3,48,1,100,5,23713804,10,https://www.airbnb.com/rooms/23713804,airbnb,NA,NA,90,"<a href='https://www.airbnb.com/rooms/23713804'>airbnb--23713804</a>
+<br>
+row-num:90"
+10,private bath,beds,bedroom,10,10,10,99,38.02593,10,-78.45441,1,2,3,147,1,64.33333333333333,5,23918430,10,https://www.airbnb.com/rooms/23918430,airbnb,NA,NA,91,"<a href='https://www.airbnb.com/rooms/23918430'>airbnb--23918430</a>
+<br>
+row-num:91"
+10,bath,beds,Studio,10,10,10,99,38.04792,10,-78.48525,1,2,4,440,0,68,5,2399994,10,https://www.airbnb.com/rooms/2399994,airbnb,NA,NA,92,"<a href='https://www.airbnb.com/rooms/2399994'>airbnb--2399994</a>
+<br>
+row-num:92"
+10,shared bath,bed,bedroom,10,10,10,100,38.03163,10,-78.50659,1,1,2,3,1,115,5,24079724,10,https://www.airbnb.com/rooms/24079724,airbnb,NA,NA,93,"<a href='https://www.airbnb.com/rooms/24079724'>airbnb--24079724</a>
+<br>
+row-num:93"
+9,private bath,bed,bedroom,10,9,9,96,38.07031,9,-78.49669,1,1,2,188,1,47.22222222222222,5,24250235,9,https://www.airbnb.com/rooms/24250235,airbnb,NA,NA,94,"<a href='https://www.airbnb.com/rooms/24250235'>airbnb--24250235</a>
+<br>
+row-num:94"
+10,bath,bed,Studio,10,10,10,97,38.03042,10,-78.4652,1,1,5,131,0,70,5,24259394,10,https://www.airbnb.com/rooms/24259394,airbnb,NA,NA,95,"<a href='https://www.airbnb.com/rooms/24259394'>airbnb--24259394</a>
+<br>
+row-num:95"
+10,baths,beds,bedrooms,10,10,10,100,38.04527,10,-78.53195,2,3,4,8,2,199,5,24391450,10,https://www.airbnb.com/rooms/24391450,airbnb,NA,NA,96,"<a href='https://www.airbnb.com/rooms/24391450'>airbnb--24391450</a>
+<br>
+row-num:96"
+10,private bath,bed,bedroom,10,10,10,100,38.08948,10,-78.44615,1,1,4,12,1,190,5,24473783,10,https://www.airbnb.com/rooms/24473783,airbnb,NA,NA,97,"<a href='https://www.airbnb.com/rooms/24473783'>airbnb--24473783</a>
+<br>
+row-num:97"
+9,bath,beds,bedrooms,10,10,10,96,38.02641,9,-78.50161,1,2,4,5,2,174,5,24516458,10,https://www.airbnb.com/rooms/24516458,airbnb,NA,NA,98,"<a href='https://www.airbnb.com/rooms/24516458'>airbnb--24516458</a>
+<br>
+row-num:98"
+10,baths,beds,bedroom,10,10,10,98,38.03137,10,-78.48244,1.5,2,4,96,1,84,5,24630250,10,https://www.airbnb.com/rooms/24630250,airbnb,NA,NA,99,"<a href='https://www.airbnb.com/rooms/24630250'>airbnb--24630250</a>
+<br>
+row-num:99"
+10,bath,beds,bedrooms,10,10,10,98,38.02475,10,-78.46503,1,2,4,52,2,120,5,25031828,10,https://www.airbnb.com/rooms/25031828,airbnb,NA,NA,100,"<a href='https://www.airbnb.com/rooms/25031828'>airbnb--25031828</a>
+<br>
+row-num:100"
+10,baths,beds,bedrooms,10,10,10,99,38.02857,10,-78.49878,2,5,6,78,2,155,5,25110259,10,https://www.airbnb.com/rooms/25110259,airbnb,NA,NA,101,"<a href='https://www.airbnb.com/rooms/25110259'>airbnb--25110259</a>
+<br>
+row-num:101"
+10,bath,bed,bedroom,10,10,10,100,38.02936,10,-78.50848,1,1,2,7,1,89,5,25252803,10,https://www.airbnb.com/rooms/25252803,airbnb,NA,NA,102,"<a href='https://www.airbnb.com/rooms/25252803'>airbnb--25252803</a>
+<br>
+row-num:102"
+10,bath,beds,bedrooms,10,9,10,96,38.01861,10,-78.47361,1,3,4,35,2,117.5,5,25378048,9,https://www.airbnb.com/rooms/25378048,airbnb,NA,NA,103,"<a href='https://www.airbnb.com/rooms/25378048'>airbnb--25378048</a>
+<br>
+row-num:103"
+10,bath,beds,bedrooms,10,10,10,98,38.02338,10,-78.47857,1,4,6,25,3,178,5,25517351,10,https://www.airbnb.com/rooms/25517351,airbnb,NA,NA,104,"<a href='https://www.airbnb.com/rooms/25517351'>airbnb--25517351</a>
+<br>
+row-num:104"
+10,bath,beds,bedrooms,10,10,10,100,38.02507,10,-78.47569,1,3,6,18,2,188,5,25802228,10,https://www.airbnb.com/rooms/25802228,airbnb,NA,NA,105,"<a href='https://www.airbnb.com/rooms/25802228'>airbnb--25802228</a>
+<br>
+row-num:105"
+10,baths,beds,bedrooms,10,9,10,95,38.02233,10,-78.51341,2,2,4,84,2,75,5,25909277,9,https://www.airbnb.com/rooms/25909277,airbnb,NA,NA,106,"<a href='https://www.airbnb.com/rooms/25909277'>airbnb--25909277</a>
+<br>
+row-num:106"
+10,private bath,bed,bedroom,10,10,10,99,38.04686,10,-78.50017,1,1,2,419,1,65.25,5,2591146,10,https://www.airbnb.com/rooms/2591146,airbnb,NA,NA,107,"<a href='https://www.airbnb.com/rooms/2591146'>airbnb--2591146</a>
+<br>
+row-num:107"
+10,private bath,bed,bedroom,10,10,10,99,38.04603,10,-78.46015,1,1,3,164,1,56.8235294117647,5,26303876,10,https://www.airbnb.com/rooms/26303876,airbnb,NA,NA,108,"<a href='https://www.airbnb.com/rooms/26303876'>airbnb--26303876</a>
+<br>
+row-num:108"
+10,bath,beds,bedrooms,10,10,10,97,38.04733,10,-78.48835,1,3,5,7,3,162,5,26712751,10,https://www.airbnb.com/rooms/26712751,airbnb,NA,NA,109,"<a href='https://www.airbnb.com/rooms/26712751'>airbnb--26712751</a>
+<br>
+row-num:109"
+10,baths,beds,bedrooms,10,10,10,98,38.04723,10,-78.51892,2.5,4,6,39,3,191,5,26839946,10,https://www.airbnb.com/rooms/26839946,airbnb,NA,NA,110,"<a href='https://www.airbnb.com/rooms/26839946'>airbnb--26839946</a>
+<br>
+row-num:110"
+10,baths,beds,bedrooms,10,10,10,94,38.03841,10,-78.47812,2,4,8,20,3,160,4.5,27423197,10,https://www.airbnb.com/rooms/27423197,airbnb,NA,NA,111,"<a href='https://www.airbnb.com/rooms/27423197'>airbnb--27423197</a>
+<br>
+row-num:111"
+10,bath,beds,bedroom,10,10,10,100,38.02844,10,-78.5067,1,2,4,6,1,110,5,27572668,10,https://www.airbnb.com/rooms/27572668,airbnb,NA,NA,112,"<a href='https://www.airbnb.com/rooms/27572668'>airbnb--27572668</a>
+<br>
+row-num:112"
+10,bath,beds,bedrooms,10,10,10,99,38.01898,10,-78.47097,1,2,4,76,2,100,5,27576154,10,https://www.airbnb.com/rooms/27576154,airbnb,NA,NA,113,"<a href='https://www.airbnb.com/rooms/27576154'>airbnb--27576154</a>
+<br>
+row-num:113"
+10,bath,bed,Studio,10,10,10,94,38.04234,10,-78.46443,1,1,2,194,0,55,4.5,27612077,10,https://www.airbnb.com/rooms/27612077,airbnb,NA,NA,114,"<a href='https://www.airbnb.com/rooms/27612077'>airbnb--27612077</a>
+<br>
+row-num:114"
+10,baths,beds,bedrooms,10,10,10,99,38.02566,10,-78.47408,2.5,2,6,14,2,199,5,27666996,10,https://www.airbnb.com/rooms/27666996,airbnb,NA,NA,115,"<a href='https://www.airbnb.com/rooms/27666996'>airbnb--27666996</a>
+<br>
+row-num:115"
+10,bath,beds,bedrooms,10,10,10,98,38.02081,10,-78.47157,1,2,4,73,2,169,5,27719797,10,https://www.airbnb.com/rooms/27719797,airbnb,NA,NA,116,"<a href='https://www.airbnb.com/rooms/27719797'>airbnb--27719797</a>
+<br>
+row-num:116"
+10,bath,bed,bedroom,10,10,10,98,38.04503,10,-78.45882,1,1,2,173,1,124.5,5,27812556,10,https://www.airbnb.com/rooms/27812556,airbnb,NA,NA,117,"<a href='https://www.airbnb.com/rooms/27812556'>airbnb--27812556</a>
+<br>
+row-num:117"
+10,baths,beds,bedrooms,10,10,10,99,38.03688,10,-78.46331,2.5,5,8,35,4,180,5,27980598,10,https://www.airbnb.com/rooms/27980598,airbnb,NA,NA,118,"<a href='https://www.airbnb.com/rooms/27980598'>airbnb--27980598</a>
+<br>
+row-num:118"
+10,baths,beds,bedrooms,10,10,10,98,38.02546,10,-78.47617,1.5,2,4,54,2,96,5,28520523,10,https://www.airbnb.com/rooms/28520523,airbnb,NA,NA,119,"<a href='https://www.airbnb.com/rooms/28520523'>airbnb--28520523</a>
+<br>
+row-num:119"
+10,baths,beds,bedrooms,10,9,10,97,38.04592,10,-78.49918,3,5,9,83,5,140,5,28856729,9,https://www.airbnb.com/rooms/28856729,airbnb,NA,NA,120,"<a href='https://www.airbnb.com/rooms/28856729'>airbnb--28856729</a>
+<br>
+row-num:120"
+10,bath,beds,bedrooms,10,10,10,99,38.04383,10,-78.46554,1,4,6,180,2,65.66666666666667,5,29263972,10,https://www.airbnb.com/rooms/29263972,airbnb,NA,NA,121,"<a href='https://www.airbnb.com/rooms/29263972'>airbnb--29263972</a>
+<br>
+row-num:121"
+9,baths,beds,bedrooms,10,9,10,100,38.04366,10,-78.4989,4,6,2,6,5,999,5,29334145,9,https://www.airbnb.com/rooms/29334145,airbnb,NA,NA,122,"<a href='https://www.airbnb.com/rooms/29334145'>airbnb--29334145</a>
+<br>
+row-num:122"
+10,shared baths,bed,bedrooms,10,10,10,99,38.03725,10,-78.44467,2,1,2,40,2,200,5,29436111,10,https://www.airbnb.com/rooms/29436111,airbnb,NA,NA,123,"<a href='https://www.airbnb.com/rooms/29436111'>airbnb--29436111</a>
+<br>
+row-num:123"
+10,bath,beds,bedroom,10,10,10,97,38.02395,10,-78.47805,1,2,4,105,1,80,5,29452766,10,https://www.airbnb.com/rooms/29452766,airbnb,NA,NA,124,"<a href='https://www.airbnb.com/rooms/29452766'>airbnb--29452766</a>
+<br>
+row-num:124"
+NA,bath,bed,Studio,NA,NA,NA,NA,38.04504,NA,-78.49806,1,1,2,NA,0,195,NA,29482101,NA,https://www.airbnb.com/rooms/29482101,airbnb,NA,NA,125,"<a href='https://www.airbnb.com/rooms/29482101'>airbnb--29482101</a>
+<br>
+row-num:125"
+10,bath,bed,bedroom,10,10,10,96,38.02118,10,-78.48529,1,1,2,198,1,68,5,29737275,10,https://www.airbnb.com/rooms/29737275,airbnb,NA,NA,126,"<a href='https://www.airbnb.com/rooms/29737275'>airbnb--29737275</a>
+<br>
+row-num:126"
+10,baths,beds,bedrooms,10,10,10,99,38.02403,10,-78.51365,2.5,3,6,29,3,101,5,29965636,10,https://www.airbnb.com/rooms/29965636,airbnb,NA,NA,127,"<a href='https://www.airbnb.com/rooms/29965636'>airbnb--29965636</a>
+<br>
+row-num:127"
+10,baths,beds,bedrooms,10,10,10,100,38.00852,10,-78.52226,1.5,2,4,5,2,162,5,30153951,10,https://www.airbnb.com/rooms/30153951,airbnb,NA,NA,128,"<a href='https://www.airbnb.com/rooms/30153951'>airbnb--30153951</a>
+<br>
+row-num:128"
+10,shared bath,bed,bedroom,10,10,10,97,38.04144,10,-78.45884,1,1,2,101,1,46.77777777777778,5,30444903,10,https://www.airbnb.com/rooms/30444903,airbnb,NA,NA,129,"<a href='https://www.airbnb.com/rooms/30444903'>airbnb--30444903</a>
+<br>
+row-num:129"
+10,shared bath,bed,bedroom,10,10,10,98,38.03989,10,-78.46066,1,1,2,73,1,50,5,30445193,10,https://www.airbnb.com/rooms/30445193,airbnb,NA,NA,130,"<a href='https://www.airbnb.com/rooms/30445193'>airbnb--30445193</a>
+<br>
+row-num:130"
+10,shared bath,bed,bedroom,10,10,10,98,38.04005,10,-78.46059,1,1,2,83,1,44.142857142857146,5,30448133,10,https://www.airbnb.com/rooms/30448133,airbnb,NA,NA,131,"<a href='https://www.airbnb.com/rooms/30448133'>airbnb--30448133</a>
+<br>
+row-num:131"
+10,bath,beds,bedrooms,10,10,10,99,38.02346,10,-78.50947,1,2,4,36,2,125,5,30568760,10,https://www.airbnb.com/rooms/30568760,airbnb,NA,NA,132,"<a href='https://www.airbnb.com/rooms/30568760'>airbnb--30568760</a>
+<br>
+row-num:132"
+10,shared bath,bed,bedroom,10,10,10,97,38.02865,10,-78.46232,1,1,2,66,1,55.35294117647059,5,3061401,10,https://www.airbnb.com/rooms/3061401,airbnb,NA,NA,133,"<a href='https://www.airbnb.com/rooms/3061401'>airbnb--3061401</a>
+<br>
+row-num:133"
+10,bath,beds,bedrooms,10,10,10,99,38.03447,10,-78.48925,1,3,6,63,2,154,5,31017496,10,https://www.airbnb.com/rooms/31017496,airbnb,NA,NA,134,"<a href='https://www.airbnb.com/rooms/31017496'>airbnb--31017496</a>
+<br>
+row-num:134"
+10,baths,beds,bedrooms,10,8,10,92,38.03255,10,-78.48318,2,2,4,6,2,162,4.5,31164550,8,https://www.airbnb.com/rooms/31164550,airbnb,NA,NA,135,"<a href='https://www.airbnb.com/rooms/31164550'>airbnb--31164550</a>
+<br>
+row-num:135"
+10,bath,bed,Studio,10,10,10,100,38.01644,10,-78.51084,1,1,2,48,0,125,5,31961919,10,https://www.airbnb.com/rooms/31961919,airbnb,NA,NA,136,"<a href='https://www.airbnb.com/rooms/31961919'>airbnb--31961919</a>
+<br>
+row-num:136"
+10,private bath,bed,bedroom,10,10,10,100,38.03568,10,-78.49199,1,1,2,4,1,155,5,32158190,10,https://www.airbnb.com/rooms/32158190,airbnb,NA,NA,137,"<a href='https://www.airbnb.com/rooms/32158190'>airbnb--32158190</a>
+<br>
+row-num:137"
+9,private bath,bed,bedroom,9,9,9,86,38.02491,9,-78.45405,1,1,2,34,1,48.22222222222222,4.5,32321199,9,https://www.airbnb.com/rooms/32321199,airbnb,NA,NA,138,"<a href='https://www.airbnb.com/rooms/32321199'>airbnb--32321199</a>
+<br>
+row-num:138"
+NA,bath,beds,bedroom,NA,NA,NA,NA,38.0802,NA,-78.45694,1,2,4,NA,1,175,NA,32329773,NA,https://www.airbnb.com/rooms/32329773,airbnb,NA,NA,139,"<a href='https://www.airbnb.com/rooms/32329773'>airbnb--32329773</a>
+<br>
+row-num:139"
+10,baths,beds,bedrooms,10,10,10,99,38.02576,10,-78.51693,3,4,8,37,4,152,5,32523220,10,https://www.airbnb.com/rooms/32523220,airbnb,NA,NA,140,"<a href='https://www.airbnb.com/rooms/32523220'>airbnb--32523220</a>
+<br>
+row-num:140"
+NA,bath,bed,bedroom,NA,NA,NA,NA,38.10486,NA,-78.56577,1,1,3,NA,1,190,NA,32545251,NA,https://www.airbnb.com/rooms/32545251,airbnb,NA,NA,141,"<a href='https://www.airbnb.com/rooms/32545251'>airbnb--32545251</a>
+<br>
+row-num:141"
+NA,bath,bed,bedroom,NA,NA,NA,NA,38.10457,NA,-78.5656,1,1,2,NA,1,175,NA,32545260,NA,https://www.airbnb.com/rooms/32545260,airbnb,NA,NA,142,"<a href='https://www.airbnb.com/rooms/32545260'>airbnb--32545260</a>
+<br>
+row-num:142"
+NA,bath,bed,bedroom,NA,NA,NA,NA,38.10261,NA,-78.56566,1,1,3,NA,1,189,NA,32545438,NA,https://www.airbnb.com/rooms/32545438,airbnb,NA,NA,143,"<a href='https://www.airbnb.com/rooms/32545438'>airbnb--32545438</a>
+<br>
+row-num:143"
+NA,bath,beds,bedroom,NA,NA,NA,NA,38.10258,NA,-78.56485,1,2,2,NA,1,189,NA,32545442,NA,https://www.airbnb.com/rooms/32545442,airbnb,NA,NA,144,"<a href='https://www.airbnb.com/rooms/32545442'>airbnb--32545442</a>
+<br>
+row-num:144"
+10,private bath,bed,bedroom,10,10,10,97,38.02307,10,-78.47859,1,1,2,65,1,52.11764705882353,5,32683856,10,https://www.airbnb.com/rooms/32683856,airbnb,NA,NA,145,"<a href='https://www.airbnb.com/rooms/32683856'>airbnb--32683856</a>
+<br>
+row-num:145"
+10,bath,bed,Studio,10,10,10,98,38.02458,10,-78.47789,1,1,2,24,0,50.628571428571426,5,33094202,10,https://www.airbnb.com/rooms/33094202,airbnb,NA,NA,146,"<a href='https://www.airbnb.com/rooms/33094202'>airbnb--33094202</a>
+<br>
+row-num:146"
+10,bath,bed,Studio,10,10,10,100,38.04355,10,-78.45915,1,1,2,42,0,80,5,33165198,10,https://www.airbnb.com/rooms/33165198,airbnb,NA,NA,147,"<a href='https://www.airbnb.com/rooms/33165198'>airbnb--33165198</a>
+<br>
+row-num:147"
+10,bath,beds,bedrooms,10,10,10,99,38.0497,10,-78.4929,1,2,4,19,2,102,5,33431471,10,https://www.airbnb.com/rooms/33431471,airbnb,NA,NA,148,"<a href='https://www.airbnb.com/rooms/33431471'>airbnb--33431471</a>
+<br>
+row-num:148"
+10,bath,bed,bedroom,10,10,10,97,38.04266,10,-78.46288,1,1,2,68,1,67.66666666666667,5,33658833,10,https://www.airbnb.com/rooms/33658833,airbnb,NA,NA,149,"<a href='https://www.airbnb.com/rooms/33658833'>airbnb--33658833</a>
+<br>
+row-num:149"
+10,shared bath,bed,bedroom,10,9,10,95,38.04193,10,-78.49708,1,1,1,14,1,51.37931034482759,5,34092555,9,https://www.airbnb.com/rooms/34092555,airbnb,NA,NA,150,"<a href='https://www.airbnb.com/rooms/34092555'>airbnb--34092555</a>
+<br>
+row-num:150"
+10,shared bath,bed,bedroom,10,10,10,100,38.04829,10,-78.46064,1,1,3,43,1,67.33333333333333,5,34110658,10,https://www.airbnb.com/rooms/34110658,airbnb,NA,NA,151,"<a href='https://www.airbnb.com/rooms/34110658'>airbnb--34110658</a>
+<br>
+row-num:151"
+10,baths,beds,bedrooms,10,10,10,99,38.01783,10,-78.49542,2.5,2,4,14,2,185,5,34466238,10,https://www.airbnb.com/rooms/34466238,airbnb,NA,NA,152,"<a href='https://www.airbnb.com/rooms/34466238'>airbnb--34466238</a>
+<br>
+row-num:152"
+10,bath,beds,bedroom,9,10,10,99,38.03147,10,-78.48903,1,4,2,15,1,129,5,34540602,10,https://www.airbnb.com/rooms/34540602,airbnb,NA,NA,153,"<a href='https://www.airbnb.com/rooms/34540602'>airbnb--34540602</a>
+<br>
+row-num:153"
+9,shared bath,bed,bedroom,10,9,10,93,38.07446,10,-78.48309,1,1,1,11,1,47.77777777777778,4.5,34603215,9,https://www.airbnb.com/rooms/34603215,airbnb,NA,NA,154,"<a href='https://www.airbnb.com/rooms/34603215'>airbnb--34603215</a>
+<br>
+row-num:154"
+10,private bath,bed,bedroom,10,10,10,99,38.04362,10,-78.48674,1,1,2,24,1,125,5,34742185,10,https://www.airbnb.com/rooms/34742185,airbnb,NA,NA,155,"<a href='https://www.airbnb.com/rooms/34742185'>airbnb--34742185</a>
+<br>
+row-num:155"
+10,bath,beds,bedroom,10,10,10,99,38.03211,10,-78.48876,1,2,4,27,1,120,5,35287055,10,https://www.airbnb.com/rooms/35287055,airbnb,NA,NA,156,"<a href='https://www.airbnb.com/rooms/35287055'>airbnb--35287055</a>
+<br>
+row-num:156"
+10,shared baths,beds,bedrooms,10,9,10,96,38.07791,10,-78.51479,1.5,4,6,68,2,43.666666666666664,5,35309757,9,https://www.airbnb.com/rooms/35309757,airbnb,NA,NA,157,"<a href='https://www.airbnb.com/rooms/35309757'>airbnb--35309757</a>
+<br>
+row-num:157"
+10,bath,beds,bedroom,10,10,10,96,38.02452,10,-78.47532,1,0,2,11,1,137,5,35548485,10,https://www.airbnb.com/rooms/35548485,airbnb,NA,NA,158,"<a href='https://www.airbnb.com/rooms/35548485'>airbnb--35548485</a>
+<br>
+row-num:158"
+10,shared bath,bed,bedroom,10,10,10,97,38.07579,10,-78.48252,1,1,1,15,1,47.5,5,35579325,10,https://www.airbnb.com/rooms/35579325,airbnb,NA,NA,159,"<a href='https://www.airbnb.com/rooms/35579325'>airbnb--35579325</a>
+<br>
+row-num:159"
+10,bath,bed,bedroom,10,10,10,98,38.02254,10,-78.47511,1,1,2,12,1,139,5,35612445,10,https://www.airbnb.com/rooms/35612445,airbnb,NA,NA,160,"<a href='https://www.airbnb.com/rooms/35612445'>airbnb--35612445</a>
+<br>
+row-num:160"
+10,bath,bed,bedroom,10,10,10,97,38.02442,10,-78.47482,1,1,2,19,1,139,5,35612463,10,https://www.airbnb.com/rooms/35612463,airbnb,NA,NA,161,"<a href='https://www.airbnb.com/rooms/35612463'>airbnb--35612463</a>
+<br>
+row-num:161"
+10,baths,beds,bedrooms,9,10,9,96,38.02262,10,-78.47407,2,2,4,15,2,180,5,35614125,10,https://www.airbnb.com/rooms/35614125,airbnb,NA,NA,162,"<a href='https://www.airbnb.com/rooms/35614125'>airbnb--35614125</a>
+<br>
+row-num:162"
+10,bath,bed,bedroom,9,10,10,95,38.02438,10,-78.47368,1,1,2,4,1,169,5,35614582,10,https://www.airbnb.com/rooms/35614582,airbnb,NA,NA,163,"<a href='https://www.airbnb.com/rooms/35614582'>airbnb--35614582</a>
+<br>
+row-num:163"
+10,bath,bed,bedroom,10,10,10,98,38.02332,10,-78.47618,1,1,2,24,1,120,5,35616538,10,https://www.airbnb.com/rooms/35616538,airbnb,NA,NA,164,"<a href='https://www.airbnb.com/rooms/35616538'>airbnb--35616538</a>
+<br>
+row-num:164"
+10,bath,bed,bedroom,10,10,10,100,38.02448,10,-78.47468,1,1,2,8,1,120,5,35616690,10,https://www.airbnb.com/rooms/35616690,airbnb,NA,NA,165,"<a href='https://www.airbnb.com/rooms/35616690'>airbnb--35616690</a>
+<br>
+row-num:165"
+10,bath,bed,bedroom,10,10,10,93,38.02448,10,-78.4749,1,1,2,30,1,120,4.5,35616987,10,https://www.airbnb.com/rooms/35616987,airbnb,NA,NA,166,"<a href='https://www.airbnb.com/rooms/35616987'>airbnb--35616987</a>
+<br>
+row-num:166"
+8,shared bath,bed,bedroom,10,9,10,88,38.08261,10,-78.48821,1,1,1,8,1,46.888888888888886,4.5,35645677,9,https://www.airbnb.com/rooms/35645677,airbnb,NA,NA,167,"<a href='https://www.airbnb.com/rooms/35645677'>airbnb--35645677</a>
+<br>
+row-num:167"
+NA,private bath,bed,bedroom,NA,NA,NA,NA,38.01359,NA,-78.51404,1,1,2,NA,1,44.92307692307692,NA,35743682,NA,https://www.airbnb.com/rooms/35743682,airbnb,NA,NA,168,"<a href='https://www.airbnb.com/rooms/35743682'>airbnb--35743682</a>
+<br>
+row-num:168"
+10,bath,bed,Studio,10,9,10,96,38.03801,10,-78.50214,1,1,2,40,0,54.11764705882353,5,35791399,9,https://www.airbnb.com/rooms/35791399,airbnb,NA,NA,169,"<a href='https://www.airbnb.com/rooms/35791399'>airbnb--35791399</a>
+<br>
+row-num:169"
+NA,baths,beds,bedrooms,NA,NA,NA,NA,38.04759,NA,-78.49398,2,3,6,NA,3,165,NA,35822286,NA,https://www.airbnb.com/rooms/35822286,airbnb,NA,NA,170,"<a href='https://www.airbnb.com/rooms/35822286'>airbnb--35822286</a>
+<br>
+row-num:170"
+10,shared bath,bed,bedroom,10,10,10,97,38.03426,10,-78.46745,1,1,2,348,1,70,5,362632,10,https://www.airbnb.com/rooms/362632,airbnb,NA,NA,171,"<a href='https://www.airbnb.com/rooms/362632'>airbnb--362632</a>
+<br>
+row-num:171"
+10,baths,beds,bedrooms,10,9,10,93,38.06217,10,-78.46669,2,3,4,3,3,199,4.5,36521202,9,https://www.airbnb.com/rooms/36521202,airbnb,NA,NA,172,"<a href='https://www.airbnb.com/rooms/36521202'>airbnb--36521202</a>
+<br>
+row-num:172"
+10,private bath,beds,Studio,10,10,10,98,38.01579,10,-78.47666,1,2,4,22,0,49.5,5,36727044,10,https://www.airbnb.com/rooms/36727044,airbnb,NA,NA,173,"<a href='https://www.airbnb.com/rooms/36727044'>airbnb--36727044</a>
+<br>
+row-num:173"
+9,bath,beds,bedrooms,9,10,9,88,38.04935,10,-78.4876,1,5,6,12,2,160,4.5,36756875,10,https://www.airbnb.com/rooms/36756875,airbnb,NA,NA,174,"<a href='https://www.airbnb.com/rooms/36756875'>airbnb--36756875</a>
+<br>
+row-num:174"
+10,bath,beds,bedrooms,10,10,10,100,38.02045,10,-78.48486,1,3,6,23,3,99.5,5,36960823,10,https://www.airbnb.com/rooms/36960823,airbnb,NA,NA,175,"<a href='https://www.airbnb.com/rooms/36960823'>airbnb--36960823</a>
+<br>
+row-num:175"
+10,baths,beds,bedrooms,10,10,10,99,38.02806,10,-78.48566,2.5,4,8,19,4,149.5,5,37198504,10,https://www.airbnb.com/rooms/37198504,airbnb,NA,NA,176,"<a href='https://www.airbnb.com/rooms/37198504'>airbnb--37198504</a>
+<br>
+row-num:176"
+10,private bath,bed,bedroom,10,10,10,99,38.0225,10,-78.49811,1,1,2,35,1,47.142857142857146,5,37199027,10,https://www.airbnb.com/rooms/37199027,airbnb,NA,NA,177,"<a href='https://www.airbnb.com/rooms/37199027'>airbnb--37199027</a>
+<br>
+row-num:177"
+10,bath,bed,Studio,10,10,10,98,38.03619,10,-78.46024,1,1,4,8,0,100,5,37213769,10,https://www.airbnb.com/rooms/37213769,airbnb,NA,NA,178,"<a href='https://www.airbnb.com/rooms/37213769'>airbnb--37213769</a>
+<br>
+row-num:178"
+10,bath,bed,bedroom,10,10,10,99,38.01811,10,-78.51687,1,1,2,130,1,101,5,3730726,10,https://www.airbnb.com/rooms/3730726,airbnb,NA,NA,179,"<a href='https://www.airbnb.com/rooms/3730726'>airbnb--3730726</a>
+<br>
+row-num:179"
+10,baths,beds,bedrooms,10,10,10,99,38.11656,10,-78.52497,2,5,0,16,4,175,5,37482572,10,https://www.airbnb.com/rooms/37482572,airbnb,NA,NA,180,"<a href='https://www.airbnb.com/rooms/37482572'>airbnb--37482572</a>
+<br>
+row-num:180"
+10,bath,bed,bedroom,10,10,10,89,38.02294,10,-78.47524,1,1,2,15,1,143,4.5,37714020,10,https://www.airbnb.com/rooms/37714020,airbnb,NA,NA,181,"<a href='https://www.airbnb.com/rooms/37714020'>airbnb--37714020</a>
+<br>
+row-num:181"
+10,baths,beds,bedrooms,10,10,10,97,38.03528,10,-78.48001,1.5,3,6,47,2,69,5,37817044,10,https://www.airbnb.com/rooms/37817044,airbnb,NA,NA,182,"<a href='https://www.airbnb.com/rooms/37817044'>airbnb--37817044</a>
+<br>
+row-num:182"
+10,bath,beds,bedroom,10,10,10,100,38.02338,10,-78.48274,1,2,4,12,1,129,5,37882577,10,https://www.airbnb.com/rooms/37882577,airbnb,NA,NA,183,"<a href='https://www.airbnb.com/rooms/37882577'>airbnb--37882577</a>
+<br>
+row-num:183"
+10,bath,beds,bedroom,10,9,10,99,38.0701,10,-78.52046,1,2,2,20,1,50.30769230769231,5,38255734,9,https://www.airbnb.com/rooms/38255734,airbnb,NA,NA,184,"<a href='https://www.airbnb.com/rooms/38255734'>airbnb--38255734</a>
+<br>
+row-num:184"
+10,baths,beds,bedrooms,10,10,10,100,38.04402,10,-78.46081,3.5,2,8,9,3,150,5,38325147,10,https://www.airbnb.com/rooms/38325147,airbnb,NA,NA,185,"<a href='https://www.airbnb.com/rooms/38325147'>airbnb--38325147</a>
+<br>
+row-num:185"
+10,bath,beds,bedroom,10,10,10,100,38.069,10,-78.40987,1,2,3,8,1,175,5,38327976,10,https://www.airbnb.com/rooms/38327976,airbnb,NA,NA,186,"<a href='https://www.airbnb.com/rooms/38327976'>airbnb--38327976</a>
+<br>
+row-num:186"
+10,bath,beds,bedrooms,10,10,10,100,38.02582,10,-78.50689,1,3,6,3,3,200,5,38438005,10,https://www.airbnb.com/rooms/38438005,airbnb,NA,NA,187,"<a href='https://www.airbnb.com/rooms/38438005'>airbnb--38438005</a>
+<br>
+row-num:187"
+10,bath,bed,bedroom,10,10,10,99,38.02347,10,-78.50087,1,1,4,18,1,56.411764705882355,5,38573765,10,https://www.airbnb.com/rooms/38573765,airbnb,NA,NA,188,"<a href='https://www.airbnb.com/rooms/38573765'>airbnb--38573765</a>
+<br>
+row-num:188"
+10,baths,beds,bedrooms,10,9,10,95,38.0301,10,-78.50239,2,3,6,15,3,139.5,5,38623549,9,https://www.airbnb.com/rooms/38623549,airbnb,NA,NA,189,"<a href='https://www.airbnb.com/rooms/38623549'>airbnb--38623549</a>
+<br>
+row-num:189"
+NA,bath,beds,bedroom,NA,NA,NA,NA,38.04214,NA,-78.49667,1,2,5,NA,1,191,NA,39487288,NA,https://www.airbnb.com/rooms/39487288,airbnb,NA,NA,190,"<a href='https://www.airbnb.com/rooms/39487288'>airbnb--39487288</a>
+<br>
+row-num:190"
+NA,bath,beds,bedrooms,NA,NA,NA,NA,38.02199,NA,-78.48343,1,3,6,NA,3,170,NA,39610939,NA,https://www.airbnb.com/rooms/39610939,airbnb,NA,NA,191,"<a href='https://www.airbnb.com/rooms/39610939'>airbnb--39610939</a>
+<br>
+row-num:191"
+10,bath,bed,bedroom,10,9,10,96,38.03169,10,-78.47965,1,1,4,10,1,80,5,39694122,9,https://www.airbnb.com/rooms/39694122,airbnb,NA,NA,192,"<a href='https://www.airbnb.com/rooms/39694122'>airbnb--39694122</a>
+<br>
+row-num:192"
+10,shared bath,bed,bedroom,10,10,10,100,38.023,10,-78.50565,1,1,1,4,1,49.91428571428571,5,39727307,10,https://www.airbnb.com/rooms/39727307,airbnb,NA,NA,193,"<a href='https://www.airbnb.com/rooms/39727307'>airbnb--39727307</a>
+<br>
+row-num:193"
+NA,private bath,bed,bedroom,NA,NA,NA,NA,38.03141,NA,-78.50585,1,1,2,NA,1,140,NA,39895030,NA,https://www.airbnb.com/rooms/39895030,airbnb,NA,NA,194,"<a href='https://www.airbnb.com/rooms/39895030'>airbnb--39895030</a>
+<br>
+row-num:194"
+10,bath,beds,bedrooms,10,10,10,99,38.02275,10,-78.47306,1,2,4,215,2,122,5,3997007,10,https://www.airbnb.com/rooms/3997007,airbnb,NA,NA,195,"<a href='https://www.airbnb.com/rooms/3997007'>airbnb--3997007</a>
+<br>
+row-num:195"
+10,bath,beds,bedrooms,10,10,10,100,38.02874,10,-78.46536,1,2,4,4,2,99,5,40121564,10,https://www.airbnb.com/rooms/40121564,airbnb,NA,NA,196,"<a href='https://www.airbnb.com/rooms/40121564'>airbnb--40121564</a>
+<br>
+row-num:196"
+10,baths,beds,bedrooms,10,9,10,92,38.0396,9,-78.4618,2.5,3,4,7,3,199,4.5,403373,9,https://www.airbnb.com/rooms/403373,airbnb,NA,NA,197,"<a href='https://www.airbnb.com/rooms/403373'>airbnb--403373</a>
+<br>
+row-num:197"
+NA,bath,beds,bedroom,NA,NA,NA,NA,38.05011,NA,-78.49879,1,0,4,NA,1,150,NA,40432357,NA,https://www.airbnb.com/rooms/40432357,airbnb,NA,NA,198,"<a href='https://www.airbnb.com/rooms/40432357'>airbnb--40432357</a>
+<br>
+row-num:198"
+10,bath,beds,bedrooms,10,10,10,100,38.03696,10,-78.47613,1,2,6,7,2,75,5,40454959,10,https://www.airbnb.com/rooms/40454959,airbnb,NA,NA,199,"<a href='https://www.airbnb.com/rooms/40454959'>airbnb--40454959</a>
+<br>
+row-num:199"
+10,baths,beds,bedrooms,10,10,10,100,38.03096,10,-78.49203,2,2,6,4,2,96,5,40455511,10,https://www.airbnb.com/rooms/40455511,airbnb,NA,NA,200,"<a href='https://www.airbnb.com/rooms/40455511'>airbnb--40455511</a>
+<br>
+row-num:200"
+10,bath,beds,bedrooms,10,10,10,99,38.04305,10,-78.46014,1,2,4,72,2,195,5,4085607,10,https://www.airbnb.com/rooms/4085607,airbnb,NA,NA,201,"<a href='https://www.airbnb.com/rooms/4085607'>airbnb--4085607</a>
+<br>
+row-num:201"
+10,bath,beds,bedrooms,10,10,10,99,37.98611,10,-78.54014,1,2,6,96,2,165,5,4151622,10,https://www.airbnb.com/rooms/4151622,airbnb,NA,NA,202,"<a href='https://www.airbnb.com/rooms/4151622'>airbnb--4151622</a>
+<br>
+row-num:202"
+10,bath,bed,bedroom,10,10,10,100,38.03052,10,-78.47227,1,1,2,66,1,171,5,4342251,10,https://www.airbnb.com/rooms/4342251,airbnb,NA,NA,203,"<a href='https://www.airbnb.com/rooms/4342251'>airbnb--4342251</a>
+<br>
+row-num:203"
+10,bath,bed,Studio,10,10,10,99,38.04871,10,-78.49282,1,1,2,404,0,75,5,4693831,10,https://www.airbnb.com/rooms/4693831,airbnb,NA,NA,204,"<a href='https://www.airbnb.com/rooms/4693831'>airbnb--4693831</a>
+<br>
+row-num:204"
+10,bath,bed,bedroom,10,10,10,97,38.02318,10,-78.46026,1,1,2,124,1,145,5,4950655,10,https://www.airbnb.com/rooms/4950655,airbnb,NA,NA,205,"<a href='https://www.airbnb.com/rooms/4950655'>airbnb--4950655</a>
+<br>
+row-num:205"
+10,bath,beds,bedrooms,10,10,10,100,38.02553,10,-78.51542,1,3,4,26,2,155,5,4961336,10,https://www.airbnb.com/rooms/4961336,airbnb,NA,NA,206,"<a href='https://www.airbnb.com/rooms/4961336'>airbnb--4961336</a>
+<br>
+row-num:206"
+10,bath,beds,bedrooms,10,10,10,99,38.02133,10,-78.4741,1,3,5,201,2,113,5,5352948,10,https://www.airbnb.com/rooms/5352948,airbnb,NA,NA,207,"<a href='https://www.airbnb.com/rooms/5352948'>airbnb--5352948</a>
+<br>
+row-num:207"
+NA,bath,bed,bedroom,NA,NA,NA,NA,38.10324,NA,-78.56568,1,1,2,NA,1,171.5,NA,5457390,NA,https://www.airbnb.com/rooms/5457390,airbnb,NA,NA,208,"<a href='https://www.airbnb.com/rooms/5457390'>airbnb--5457390</a>
+<br>
+row-num:208"
+10,bath,bed,bedroom,10,10,10,99,38.05251,10,-78.49094,1,1,2,108,1,99.5,5,6015460,10,https://www.airbnb.com/rooms/6015460,airbnb,NA,NA,209,"<a href='https://www.airbnb.com/rooms/6015460'>airbnb--6015460</a>
+<br>
+row-num:209"
+10,bath,bed,bedroom,10,10,10,98,38.03563,10,-78.47062,1,1,2,205,1,47.22222222222222,5,6106699,10,https://www.airbnb.com/rooms/6106699,airbnb,NA,NA,210,"<a href='https://www.airbnb.com/rooms/6106699'>airbnb--6106699</a>
+<br>
+row-num:210"
+10,baths,beds,bedrooms,10,10,10,100,38.02846,10,-78.50085,1.5,2,2,86,2,140,5,6391242,10,https://www.airbnb.com/rooms/6391242,airbnb,NA,NA,211,"<a href='https://www.airbnb.com/rooms/6391242'>airbnb--6391242</a>
+<br>
+row-num:211"
+9,bath,beds,bedrooms,10,9,10,85,38.02444,9,-78.47941,1,0,4,42,2,110,4.5,6431316,9,https://www.airbnb.com/rooms/6431316,airbnb,NA,NA,212,"<a href='https://www.airbnb.com/rooms/6431316'>airbnb--6431316</a>
+<br>
+row-num:212"
+10,bath,bed,Studio,10,10,10,94,38.04242,10,-78.48728,1,1,2,178,0,99.5,4.5,6467552,10,https://www.airbnb.com/rooms/6467552,airbnb,NA,NA,213,"<a href='https://www.airbnb.com/rooms/6467552'>airbnb--6467552</a>
+<br>
+row-num:213"
+9,bath,beds,bedrooms,10,9,10,94,38.02859,9,-78.49081,1,2,4,75,2,108.5,4.5,666284,9,https://www.airbnb.com/rooms/666284,airbnb,NA,NA,214,"<a href='https://www.airbnb.com/rooms/666284'>airbnb--666284</a>
+<br>
+row-num:214"
+10,bath,bed,bedroom,10,10,10,98,38.03915,10,-78.46158,1,1,4,217,1,99,5,6674438,10,https://www.airbnb.com/rooms/6674438,airbnb,NA,NA,215,"<a href='https://www.airbnb.com/rooms/6674438'>airbnb--6674438</a>
+<br>
+row-num:215"
+10,bath,bed,bedroom,10,9,10,94,38.04465,10,-78.45557,1,1,3,63,1,111.5,4.5,6922178,9,https://www.airbnb.com/rooms/6922178,airbnb,NA,NA,216,"<a href='https://www.airbnb.com/rooms/6922178'>airbnb--6922178</a>
+<br>
+row-num:216"
+10,bath,bed,bedroom,10,10,10,96,38.04465,10,-78.45598,1,1,2,504,1,54.8235294117647,5,6967254,10,https://www.airbnb.com/rooms/6967254,airbnb,NA,NA,217,"<a href='https://www.airbnb.com/rooms/6967254'>airbnb--6967254</a>
+<br>
+row-num:217"
+10,bath,beds,bedrooms,10,10,10,100,38.00153,10,-78.54572,1,2,4,126,2,165,5,7033381,10,https://www.airbnb.com/rooms/7033381,airbnb,NA,NA,218,"<a href='https://www.airbnb.com/rooms/7033381'>airbnb--7033381</a>
+<br>
+row-num:218"
+10,baths,beds,bedrooms,10,10,10,99,38.02834,10,-78.4667,2,2,4,197,2,139,5,7086685,10,https://www.airbnb.com/rooms/7086685,airbnb,NA,NA,219,"<a href='https://www.airbnb.com/rooms/7086685'>airbnb--7086685</a>
+<br>
+row-num:219"
+10,shared bath,bed,bedroom,10,10,10,97,38.0315,10,-78.50179,1,1,3,380,1,68.6,5,7279476,10,https://www.airbnb.com/rooms/7279476,airbnb,NA,NA,220,"<a href='https://www.airbnb.com/rooms/7279476'>airbnb--7279476</a>
+<br>
+row-num:220"
+10,baths,beds,bedrooms,10,10,10,96,38.02905,10,-78.49351,2,4,6,193,2,180,5,774005,10,https://www.airbnb.com/rooms/774005,airbnb,NA,NA,221,"<a href='https://www.airbnb.com/rooms/774005'>airbnb--774005</a>
+<br>
+row-num:221"
+10,bath,bed,bedroom,10,10,10,99,38.06349,10,-78.47648,1,1,4,350,1,75,5,7815840,10,https://www.airbnb.com/rooms/7815840,airbnb,NA,NA,222,"<a href='https://www.airbnb.com/rooms/7815840'>airbnb--7815840</a>
+<br>
+row-num:222"
+10,bath,beds,bedroom,10,9,10,95,38.02297,10,-78.4916,1,2,4,63,1,118,5,7912919,9,https://www.airbnb.com/rooms/7912919,airbnb,NA,NA,223,"<a href='https://www.airbnb.com/rooms/7912919'>airbnb--7912919</a>
+<br>
+row-num:223"
+10,bath,beds,bedroom,10,10,10,96,38.03517,10,-78.49378,1,3,6,439,1,87.5,5,8300730,10,https://www.airbnb.com/rooms/8300730,airbnb,NA,NA,224,"<a href='https://www.airbnb.com/rooms/8300730'>airbnb--8300730</a>
+<br>
+row-num:224"
+10,bath,bed,bedroom,10,10,10,99,38.02557,10,-78.51248,1,1,2,143,1,113,5,8497015,10,https://www.airbnb.com/rooms/8497015,airbnb,NA,NA,225,"<a href='https://www.airbnb.com/rooms/8497015'>airbnb--8497015</a>
+<br>
+row-num:225"
+10,bath,bed,bedroom,10,10,10,98,38.02439,10,-78.47304,1,1,2,212,1,84,5,8569777,10,https://www.airbnb.com/rooms/8569777,airbnb,NA,NA,226,"<a href='https://www.airbnb.com/rooms/8569777'>airbnb--8569777</a>
+<br>
+row-num:226"
+10,baths,beds,bedrooms,10,10,10,98,38.00874,10,-78.52628,2,2,4,57,2,150,5,864877,10,https://www.airbnb.com/rooms/864877,airbnb,NA,NA,227,"<a href='https://www.airbnb.com/rooms/864877'>airbnb--864877</a>
+<br>
+row-num:227"
+10,baths,beds,bedrooms,10,10,10,100,38.03121,10,-78.49335,3,3,6,8,3,999,5,898058,10,https://www.airbnb.com/rooms/898058,airbnb,NA,NA,228,"<a href='https://www.airbnb.com/rooms/898058'>airbnb--898058</a>
+<br>
+row-num:228"
+10,baths,beds,bedrooms,10,10,10,100,38.09515,10,-78.50851,1.5,2,5,17,2,178,5,9127937,10,https://www.airbnb.com/rooms/9127937,airbnb,NA,NA,229,"<a href='https://www.airbnb.com/rooms/9127937'>airbnb--9127937</a>
+<br>
+row-num:229"
+9,baths,beds,bedrooms,10,8,10,89,38.06314,10,-78.51101,2.5,2,4,15,2,170,4.5,9128600,8,https://www.airbnb.com/rooms/9128600,airbnb,NA,NA,230,"<a href='https://www.airbnb.com/rooms/9128600'>airbnb--9128600</a>
+<br>
+row-num:230"
+9,bath,beds,bedroom,10,10,10,91,38.03506,10,-78.47718,1,2,4,19,1,155,4.5,9129433,10,https://www.airbnb.com/rooms/9129433,airbnb,NA,NA,231,"<a href='https://www.airbnb.com/rooms/9129433'>airbnb--9129433</a>
+<br>
+row-num:231"
+10,bath,bed,bedroom,10,10,9,94,38.02277,9,-78.47206,1,1,3,39,1,120,4.5,9129723,10,https://www.airbnb.com/rooms/9129723,airbnb,NA,NA,232,"<a href='https://www.airbnb.com/rooms/9129723'>airbnb--9129723</a>
+<br>
+row-num:232"
+10,baths,beds,bedroom,10,10,10,94,38.03165,10,-78.48225,2,2,4,32,1,120,4.5,9129775,10,https://www.airbnb.com/rooms/9129775,airbnb,NA,NA,233,"<a href='https://www.airbnb.com/rooms/9129775'>airbnb--9129775</a>
+<br>
+row-num:233"
+10,bath,beds,bedrooms,10,10,10,96,38.0193,10,-78.48159,1,3,5,224,2,140,5,914564,10,https://www.airbnb.com/rooms/914564,airbnb,NA,NA,234,"<a href='https://www.airbnb.com/rooms/914564'>airbnb--914564</a>
+<br>
+row-num:234"
+10,bath,beds,bedroom,10,10,10,99,38.02219,10,-78.49009,1,2,4,262,1,90,5,9212680,10,https://www.airbnb.com/rooms/9212680,airbnb,NA,NA,235,"<a href='https://www.airbnb.com/rooms/9212680'>airbnb--9212680</a>
+<br>
+row-num:235"
+10,baths,beds,bedrooms,10,9,10,98,38.03008,10,-78.50681,2,4,7,198,3,140,5,9274661,9,https://www.airbnb.com/rooms/9274661,airbnb,NA,NA,236,"<a href='https://www.airbnb.com/rooms/9274661'>airbnb--9274661</a>
+<br>
+row-num:236"
+10,bath,bed,bedroom,10,10,10,100,38.0431,10,-78.46052,1,1,4,11,1,170,5,9541865,10,https://www.airbnb.com/rooms/9541865,airbnb,NA,NA,237,"<a href='https://www.airbnb.com/rooms/9541865'>airbnb--9541865</a>
+<br>
+row-num:237"
+10,baths,beds,bedrooms,10,10,10,98,38.02536,10,-78.4813,2,2,4,185,2,100,5,9704469,10,https://www.airbnb.com/rooms/9704469,airbnb,NA,NA,238,"<a href='https://www.airbnb.com/rooms/9704469'>airbnb--9704469</a>
+<br>
+row-num:238"
+10,baths,beds,bedrooms,10,9,10,95,38.02954,10,-78.46901,1.5,3,5,53,3,132,5,9708611,9,https://www.airbnb.com/rooms/9708611,airbnb,NA,NA,239,"<a href='https://www.airbnb.com/rooms/9708611'>airbnb--9708611</a>
+<br>
+row-num:239"
+10,baths,bed,bedroom,10,10,10,98,38.03524,10,-78.47976,1.5,1,2,245,1,64.66666666666667,5,98084,10,https://www.airbnb.com/rooms/98084,airbnb,NA,NA,240,"<a href='https://www.airbnb.com/rooms/98084'>airbnb--98084</a>
+<br>
+row-num:240"
+10,bath,bed,bedroom,10,10,10,96,38.0462,10,-78.49944,1,1,2,23,1,192.5,5,9935991,10,https://www.airbnb.com/rooms/9935991,airbnb,NA,NA,241,"<a href='https://www.airbnb.com/rooms/9935991'>airbnb--9935991</a>
+<br>
+row-num:241"
+NA,baths,beds,bedrooms,NA,NA,NA,NA,38.04617,NA,-78.46079,2.5,3,6,NA,2,142,NA,NA,NA,https://www.airbnb.com/rooms/NA,airbnb,NA,NA,242,"<a href='https://www.airbnb.com/rooms/NA'>airbnb--NA</a>
+<br>
+row-num:242"
+NA,NA,NA,Apartment,NA,NA,NA,NA,38.04774947,NA,-78.49313105,1,2,3,15,NA,135,4.9,622624,NA,https://www.vrbo.com/622624,VRBO,1280,7,243,"<a href='https://www.vrbo.com/622624'>VRBO--622624</a>
+<br>
+row-num:243"
+NA,NA,NA,Cabin,NA,NA,NA,NA,38.046892,NA,-78.484312,1,1,4,19,NA,140,4.9,688243,NA,https://www.vrbo.com/688243,VRBO,344,3,244,"<a href='https://www.vrbo.com/688243'>VRBO--688243</a>
+<br>
+row-num:244"
+NA,NA,NA,Apartment,NA,NA,NA,NA,38.028447,NA,-78.471883,1,1,2,59,NA,150,4.7,988957ha,NA,https://www.vrbo.com/988957ha,VRBO,750,3,245,"<a href='https://www.vrbo.com/988957ha'>VRBO--988957ha</a>
+<br>
+row-num:245"
+NA,NA,NA,House,NA,NA,NA,NA,38.04934857,NA,-78.48896004,1,2,4,33,NA,200,4.8,384438,NA,https://www.vrbo.com/384438,VRBO,1000,2,246,"<a href='https://www.vrbo.com/384438'>VRBO--384438</a>
+<br>
+row-num:246"
+NA,NA,NA,House,NA,NA,NA,NA,38.034012,NA,-78.47738,NA,1,6,86,NA,250,4.9,3660449ha,NA,https://www.vrbo.com/3660449ha,VRBO,1400,2,247,"<a href='https://www.vrbo.com/3660449ha'>VRBO--3660449ha</a>
+<br>
+row-num:247"
+NA,NA,NA,Hotel,NA,NA,NA,NA,38.03255327,NA,-78.48205878,1,1,2,3,NA,180,NA,7160443ha,NA,https://www.vrbo.com/7160443ha,VRBO,295,1,248,"<a href='https://www.vrbo.com/7160443ha'>VRBO--7160443ha</a>
+<br>
+row-num:248"
+NA,NA,NA,House,NA,NA,NA,NA,38.03737104,NA,-78.48077769,1,2,4,12,NA,170,4.5,4706726ha,NA,https://www.vrbo.com/4706726ha,VRBO,0,1,249,"<a href='https://www.vrbo.com/4706726ha'>VRBO--4706726ha</a>
+<br>
+row-num:249"
+NA,NA,NA,Condo,NA,NA,NA,NA,38.03258984,NA,-78.48469325,NA,2,4,5,NA,575,5,1433059,NA,https://www.vrbo.com/1433059,VRBO,0,2,250,"<a href='https://www.vrbo.com/1433059'>VRBO--1433059</a>
+<br>
+row-num:250"
+NA,NA,NA,House,NA,NA,NA,NA,38.03453113,NA,-78.48337046,3,3,6,5,NA,407,4.6,7388323ha,NA,https://www.vrbo.com/7388323ha,VRBO,2266,2,251,"<a href='https://www.vrbo.com/7388323ha'>VRBO--7388323ha</a>
+<br>
+row-num:251"
+NA,NA,NA,Apartment,NA,NA,NA,NA,38.02284,NA,-78.49994,1,1,2,2,NA,88,NA,4767323ha,NA,https://www.vrbo.com/4767323ha,VRBO,0,2,252,"<a href='https://www.vrbo.com/4767323ha'>VRBO--4767323ha</a>
+<br>
+row-num:252"
+NA,NA,NA,Hotel,NA,NA,NA,NA,38.02933354,NA,-78.48215382,1,1,2,2,NA,180,NA,7160441ha,NA,https://www.vrbo.com/7160441ha,VRBO,333,1,253,"<a href='https://www.vrbo.com/7160441ha'>VRBO--7160441ha</a>
+<br>
+row-num:253"
+NA,NA,NA,House,NA,NA,NA,NA,38.02607189,NA,-78.47217703,1,1,3,7,NA,150,4.6,4267288ha,NA,https://www.vrbo.com/4267288ha,VRBO,0,2,254,"<a href='https://www.vrbo.com/4267288ha'>VRBO--4267288ha</a>
+<br>
+row-num:254"
+NA,NA,NA,Townhome,NA,NA,NA,NA,38.0163731,NA,-78.4749769,4,2,6,42,NA,205,4.9,920504,NA,https://www.vrbo.com/920504,VRBO,1600,2,255,"<a href='https://www.vrbo.com/920504'>VRBO--920504</a>
+<br>
+row-num:255"
+NA,NA,NA,Condo,NA,NA,NA,NA,38.03153251,NA,-78.48335735,2,1,4,3,NA,220,NA,7160478ha,NA,https://www.vrbo.com/7160478ha,VRBO,890,2,256,"<a href='https://www.vrbo.com/7160478ha'>VRBO--7160478ha</a>
+<br>
+row-num:256"
+NA,NA,NA,Cabin,NA,NA,NA,NA,38.02962875,NA,-78.46417999,2,NA,4,26,NA,79,4.4,319872,NA,https://www.vrbo.com/319872,VRBO,400,NA,257,"<a href='https://www.vrbo.com/319872'>VRBO--319872</a>
+<br>
+row-num:257"
+NA,NA,NA,Bungalow,NA,NA,NA,NA,38.02662659,NA,-78.47418976,1,2,4,61,NA,225,5,333691,NA,https://www.vrbo.com/333691,VRBO,800,2,258,"<a href='https://www.vrbo.com/333691'>VRBO--333691</a>
+<br>
+row-num:258"
+NA,NA,NA,Townhome,NA,NA,NA,NA,38.01812573,NA,-78.50798989,NA,3,6,3,NA,607,NA,730401,NA,https://www.vrbo.com/730401,VRBO,2050,2,259,"<a href='https://www.vrbo.com/730401'>VRBO--730401</a>
+<br>
+row-num:259"
+NA,NA,NA,Estate,NA,NA,NA,NA,38.03962897,NA,-78.50805532,3,5,10,2,NA,953,NA,7160448ha,NA,https://www.vrbo.com/7160448ha,VRBO,4670,2,260,"<a href='https://www.vrbo.com/7160448ha'>VRBO--7160448ha</a>
+<br>
+row-num:260"
+NA,NA,NA,House,NA,NA,NA,NA,38.0254283,NA,-78.5221335,NA,3,8,6,NA,249,5,1046559,NA,https://www.vrbo.com/1046559,VRBO,1100,1,261,"<a href='https://www.vrbo.com/1046559'>VRBO--1046559</a>
+<br>
+row-num:261"
+NA,NA,NA,House,NA,NA,NA,NA,38.023528,NA,-78.51813,NA,3,10,28,NA,120,3.9,856423,NA,https://www.vrbo.com/856423,VRBO,2000,2,262,"<a href='https://www.vrbo.com/856423'>VRBO--856423</a>
+<br>
+row-num:262"
+NA,NA,NA,House,NA,NA,NA,NA,38.05216626,NA,-78.50008377,6,5,10,NA,NA,793,NA,9290037ha,NA,https://www.vrbo.com/9290037ha,VRBO,3628,2,263,"<a href='https://www.vrbo.com/9290037ha'>VRBO--9290037ha</a>
+<br>
+row-num:263"
+NA,NA,NA,House,NA,NA,NA,NA,38.055456,NA,-78.489806,NA,6,26,4,NA,1457,NA,3918084ha,NA,https://www.vrbo.com/3918084ha,VRBO,10000,2,264,"<a href='https://www.vrbo.com/3918084ha'>VRBO--3918084ha</a>
+<br>
+row-num:264"
+NA,NA,NA,Townhome,NA,NA,NA,NA,38.01849924,NA,-78.50065665,NA,4,11,3,NA,367,NA,1657766,NA,https://www.vrbo.com/1657766,VRBO,2200,1,265,"<a href='https://www.vrbo.com/1657766'>VRBO--1657766</a>
+<br>
+row-num:265"
+NA,NA,NA,House,NA,NA,NA,NA,38.02023182,NA,-78.5230668,1,2,4,NA,NA,145,NA,1322818,NA,https://www.vrbo.com/1322818,VRBO,800,2,266,"<a href='https://www.vrbo.com/1322818'>VRBO--1322818</a>
+<br>
+row-num:266"
+NA,NA,NA,House,NA,NA,NA,NA,38.02658538,NA,-78.51967436,NA,3,8,3,NA,203,NA,4647389ha,NA,https://www.vrbo.com/4647389ha,VRBO,1100,2,267,"<a href='https://www.vrbo.com/4647389ha'>VRBO--4647389ha</a>
+<br>
+row-num:267"
+NA,NA,NA,Townhome,NA,NA,NA,NA,38.06836217,NA,-78.49907218,NA,2,4,NA,NA,350,NA,1611268,NA,https://www.vrbo.com/1611268,VRBO,0,2,268,"<a href='https://www.vrbo.com/1611268'>VRBO--1611268</a>
+<br>
+row-num:268"
+NA,NA,NA,House,NA,NA,NA,NA,38.06788594,NA,-78.51041602,NA,3,6,NA,NA,485,NA,1611497,NA,https://www.vrbo.com/1611497,VRBO,2100,2,269,"<a href='https://www.vrbo.com/1611497'>VRBO--1611497</a>
+<br>
+row-num:269"
+NA,NA,NA,Townhome,NA,NA,NA,NA,38.0156816,NA,-78.5001524,NA,3,10,NA,NA,336,NA,1657808,NA,https://www.vrbo.com/1657808,VRBO,0,1,270,"<a href='https://www.vrbo.com/1657808'>VRBO--1657808</a>
+<br>
+row-num:270"
+NA,NA,NA,House,NA,NA,NA,NA,38.05402738,NA,-78.52826127,4,5,10,4,NA,781,NA,4064053ha,NA,https://www.vrbo.com/4064053ha,VRBO,48438,2,271,"<a href='https://www.vrbo.com/4064053ha'>VRBO--4064053ha</a>
+<br>
+row-num:271"
+NA,NA,NA,House,NA,NA,NA,NA,38.06404771,NA,-78.53172953,NA,5,14,3,NA,1293,NA,509731,NA,https://www.vrbo.com/509731,VRBO,0,3,272,"<a href='https://www.vrbo.com/509731'>VRBO--509731</a>
+<br>
+row-num:272"
+NA,NA,NA,House,NA,NA,NA,NA,38.023357,NA,-78.475416,NA,3,6,19,NA,293,4.9,809871,NA,https://www.vrbo.com/809871,VRBO,1900,2,273,"<a href='https://www.vrbo.com/809871'>VRBO--809871</a>
+<br>
+row-num:273"
+NA,NA,NA,House,NA,NA,NA,NA,38.0258676,NA,-78.49975178,1,2,4,NA,NA,208,NA,7388324ha,NA,https://www.vrbo.com/7388324ha,VRBO,950,2,274,"<a href='https://www.vrbo.com/7388324ha'>VRBO--7388324ha</a>
+<br>
+row-num:274"
+NA,NA,NA,House,NA,NA,NA,NA,38.04050226,NA,-78.5132148,2,3,6,NA,NA,0,NA,1580590,NA,https://www.vrbo.com/1580590,VRBO,0,3,275,"<a href='https://www.vrbo.com/1580590'>VRBO--1580590</a>
+<br>
+row-num:275"
+NA,NA,NA,House,NA,NA,NA,NA,38.05910987,NA,-78.51266648,3,4,10,NA,NA,175,NA,1824540,NA,https://www.vrbo.com/1824540,VRBO,0,30,276,"<a href='https://www.vrbo.com/1824540'>VRBO--1824540</a>
+<br>
+row-num:276"
+NA,NA,NA,House,NA,NA,NA,NA,38.017836,NA,-78.516586,NA,6,10,9,NA,3000,5,472830,NA,https://www.vrbo.com/472830,VRBO,5500,2,277,"<a href='https://www.vrbo.com/472830'>VRBO--472830</a>
+<br>
+row-num:277"
+NA,NA,NA,Townhome,NA,NA,NA,NA,38.03968798,NA,-78.4468473,NA,3,12,NA,NA,950,NA,1248151,NA,https://www.vrbo.com/1248151,VRBO,1980,2,278,"<a href='https://www.vrbo.com/1248151'>VRBO--1248151</a>
+<br>
+row-num:278"
+NA,NA,NA,Apartment,NA,NA,NA,NA,38.038284,NA,-78.461338,1,1,2,15,NA,67,4.7,759189,NA,https://www.vrbo.com/759189,VRBO,300,2,279,"<a href='https://www.vrbo.com/759189'>VRBO--759189</a>
+<br>
+row-num:279"
+NA,NA,NA,House,NA,NA,NA,NA,38.028735,NA,-78.463057,2,3,5,11,NA,190,4.9,3818360ha,NA,https://www.vrbo.com/3818360ha,VRBO,1400,2,280,"<a href='https://www.vrbo.com/3818360ha'>VRBO--3818360ha</a>
+<br>
+row-num:280"
+NA,NA,NA,Apartment,NA,NA,NA,NA,38.02429644,NA,-78.47003165,NA,2,4,NA,NA,231,NA,9165066ha,NA,https://www.vrbo.com/9165066ha,VRBO,1140,NA,281,"<a href='https://www.vrbo.com/9165066ha'>VRBO--9165066ha</a>
+<br>
+row-num:281"
+NA,NA,NA,House,NA,NA,NA,NA,38.0462709,NA,-78.4988347,3,5,9,12,NA,302,4.8,7412235ha,NA,https://www.vrbo.com/7412235ha,VRBO,0,1,282,"<a href='https://www.vrbo.com/7412235ha'>VRBO--7412235ha</a>
+<br>
+row-num:282"
+NA,NA,NA,House,NA,NA,NA,NA,38.02637189,NA,-78.47850078,1,1,3,4,NA,98,NA,1310401,NA,https://www.vrbo.com/1310401,VRBO,0,1,283,"<a href='https://www.vrbo.com/1310401'>VRBO--1310401</a>
+<br>
+row-num:283"
+NA,NA,NA,Condo,NA,NA,NA,NA,38.02684123,NA,-78.45891103,1,1,4,NA,NA,104,NA,1814685,NA,https://www.vrbo.com/1814685,VRBO,1,1,284,"<a href='https://www.vrbo.com/1814685'>VRBO--1814685</a>
+<br>
+row-num:284"
+NA,NA,NA,Guest House,NA,NA,NA,NA,38.043218,NA,-78.5318808,1,2,4,17,NA,288,5,1386218,NA,https://www.vrbo.com/1386218,VRBO,1200,2,285,"<a href='https://www.vrbo.com/1386218'>VRBO--1386218</a>
+<br>
+row-num:285"
+NA,NA,NA,House,NA,NA,NA,NA,38.0493127,NA,-78.5000998,NA,3,6,4,NA,650,NA,1399878,NA,https://www.vrbo.com/1399878,VRBO,3900,2,286,"<a href='https://www.vrbo.com/1399878'>VRBO--1399878</a>
+<br>
+row-num:286"
+NA,NA,NA,House,NA,NA,NA,NA,38.03050096,NA,-78.4954016,2,4,8,8,NA,455,4.9,7160450ha,NA,https://www.vrbo.com/7160450ha,VRBO,2064,2,287,"<a href='https://www.vrbo.com/7160450ha'>VRBO--7160450ha</a>
+<br>
+row-num:287"
+NA,NA,NA,House,NA,NA,NA,NA,38.02020074,NA,-78.45960671,2,3,6,7,NA,609,3.9,7160482ha,NA,https://www.vrbo.com/7160482ha,VRBO,2200,2,288,"<a href='https://www.vrbo.com/7160482ha'>VRBO--7160482ha</a>
+<br>
+row-num:288"
+NA,NA,NA,Condo,NA,NA,NA,NA,38.03219656,NA,-78.48603674,2,1,4,4,NA,203,NA,7160480ha,NA,https://www.vrbo.com/7160480ha,VRBO,890,2,289,"<a href='https://www.vrbo.com/7160480ha'>VRBO--7160480ha</a>
+<br>
+row-num:289"
+NA,NA,NA,House,NA,NA,NA,NA,38.03103862,NA,-78.47352079,2,4,7,14,NA,279,4.4,921632ha,NA,https://www.vrbo.com/921632ha,VRBO,1564,2,290,"<a href='https://www.vrbo.com/921632ha'>VRBO--921632ha</a>
+<br>
+row-num:290"
+NA,NA,NA,Hotel,NA,NA,NA,NA,38.03307084,NA,-78.48766006,NA,1,2,NA,NA,190,NA,7160444ha,NA,https://www.vrbo.com/7160444ha,VRBO,253,NA,291,"<a href='https://www.vrbo.com/7160444ha'>VRBO--7160444ha</a>
+<br>
+row-num:291"
+NA,NA,NA,Cottage,NA,NA,NA,NA,38.0286989,NA,-78.4667803,2,4,5,NA,NA,197,NA,1727825,NA,https://www.vrbo.com/1727825,VRBO,1062,3,292,"<a href='https://www.vrbo.com/1727825'>VRBO--1727825</a>
+<br>
+row-num:292"
+NA,NA,NA,House,NA,NA,NA,NA,38.03008,NA,-78.511601,2,3,6,36,NA,400,4.9,587223,NA,https://www.vrbo.com/587223,VRBO,1900,2,293,"<a href='https://www.vrbo.com/587223'>VRBO--587223</a>
+<br>
+row-num:293"
+NA,NA,NA,Cottage,NA,NA,NA,NA,38.017345,NA,-78.5166033,1,1,4,12,NA,135,4.9,1170096,NA,https://www.vrbo.com/1170096,VRBO,1000,2,294,"<a href='https://www.vrbo.com/1170096'>VRBO--1170096</a>
+<br>
+row-num:294"
+NA,NA,NA,House,NA,NA,NA,NA,38.0413231,NA,-78.4610854,1,3,6,10,NA,125,4.9,1522722,NA,https://www.vrbo.com/1522722,VRBO,1000,2,295,"<a href='https://www.vrbo.com/1522722'>VRBO--1522722</a>
+<br>
+row-num:295"
+NA,NA,NA,Studio,NA,NA,NA,NA,38.0555732,NA,-78.4609188,1,1,2,8,NA,104,4.8,4999603ha,NA,https://www.vrbo.com/4999603ha,VRBO,300,1,296,"<a href='https://www.vrbo.com/4999603ha'>VRBO--4999603ha</a>
+<br>
+row-num:296"
+NA,NA,NA,House,NA,NA,NA,NA,38.0477656,NA,-78.4937298,2,3,6,NA,NA,600,NA,1899947,NA,https://www.vrbo.com/1899947,VRBO,0,2,297,"<a href='https://www.vrbo.com/1899947'>VRBO--1899947</a>
+<br>
+row-num:297"
+NA,NA,NA,House,NA,NA,NA,NA,38.0261075,NA,-78.4661586,2,2,6,NA,NA,186,NA,1883930,NA,https://www.vrbo.com/1883930,VRBO,1600,2,298,"<a href='https://www.vrbo.com/1883930'>VRBO--1883930</a>
+<br>
+row-num:298"
+NA,NA,NA,House,NA,NA,NA,NA,38.01512834,NA,-78.47126853,2,3,6,NA,NA,175,NA,1845679,NA,https://www.vrbo.com/1845679,VRBO,0,2,299,"<a href='https://www.vrbo.com/1845679'>VRBO--1845679</a>
+<br>
+row-num:299"
+NA,NA,NA,House,NA,NA,NA,NA,38.03742389,NA,-78.45881205,2,2,4,3,NA,310,NA,7160437ha,NA,https://www.vrbo.com/7160437ha,VRBO,15220,2,300,"<a href='https://www.vrbo.com/7160437ha'>VRBO--7160437ha</a>
+<br>
+row-num:300"
+NA,NA,NA,House,NA,NA,NA,NA,38.0223169,NA,-78.4990384,2,4,10,17,NA,150,4.3,1169611,NA,https://www.vrbo.com/1169611,VRBO,2300,2,301,"<a href='https://www.vrbo.com/1169611'>VRBO--1169611</a>
+<br>
+row-num:301"
+NA,NA,NA,Bed And Breakfast,NA,NA,NA,NA,38.0248146,NA,-78.4690158,1,2,6,NA,NA,200,NA,9371995ha,NA,https://www.vrbo.com/9371995ha,VRBO,0,1,302,"<a href='https://www.vrbo.com/9371995ha'>VRBO--9371995ha</a>
+<br>
+row-num:302"
+NA,NA,NA,Condo,NA,NA,NA,NA,38.03393809,NA,-78.4775205,1,1,4,NA,NA,212,NA,7160469ha,NA,https://www.vrbo.com/7160469ha,VRBO,950,2,303,"<a href='https://www.vrbo.com/7160469ha'>VRBO--7160469ha</a>
+<br>
+row-num:303"
+NA,NA,NA,Condo,NA,NA,NA,NA,38.02922893,NA,-78.48251746,NA,1,4,NA,NA,220,NA,7160481ha,NA,https://www.vrbo.com/7160481ha,VRBO,890,NA,304,"<a href='https://www.vrbo.com/7160481ha'>VRBO--7160481ha</a>
+<br>
+row-num:304"
+NA,NA,NA,Cottage,NA,NA,NA,NA,38.04902444,NA,-78.53070772,2,2,4,23,NA,229,5,1196803,NA,https://www.vrbo.com/1196803,VRBO,0,2,305,"<a href='https://www.vrbo.com/1196803'>VRBO--1196803</a>
+<br>
+row-num:305"
+NA,NA,NA,House,NA,NA,NA,NA,38.066228,NA,-78.4946545,NA,3,6,4,NA,275,NA,1757634,NA,https://www.vrbo.com/1757634,VRBO,0,2,306,"<a href='https://www.vrbo.com/1757634'>VRBO--1757634</a>
+<br>
+row-num:306"
+NA,NA,NA,House,NA,NA,NA,NA,38.03951311,NA,-78.45585163,1,1,4,NA,NA,121,NA,9279561ha,NA,https://www.vrbo.com/9279561ha,VRBO,0,1,307,"<a href='https://www.vrbo.com/9279561ha'>VRBO--9279561ha</a>
+<br>
+row-num:307"
+NA,NA,NA,Cottage,NA,NA,NA,NA,38.05556,NA,-78.4601,1,1,4,2,NA,95,NA,7443310ha,NA,https://www.vrbo.com/7443310ha,VRBO,1100,2,308,"<a href='https://www.vrbo.com/7443310ha'>VRBO--7443310ha</a>
+<br>
+row-num:308"
+NA,NA,NA,House,NA,NA,NA,NA,38.02426149,NA,-78.52078002,1,2,4,6,NA,118,4.8,1179869,NA,https://www.vrbo.com/1179869,VRBO,800,2,309,"<a href='https://www.vrbo.com/1179869'>VRBO--1179869</a>
+<br>
+row-num:309"
+NA,NA,NA,House,NA,NA,NA,NA,38.03781097,NA,-78.50838033,NA,4,8,5,NA,640,5,7160440ha,NA,https://www.vrbo.com/7160440ha,VRBO,3830,2,310,"<a href='https://www.vrbo.com/7160440ha'>VRBO--7160440ha</a>
+<br>
+row-num:310"
+NA,NA,NA,House,NA,NA,NA,NA,38.03390168,NA,-78.47147558,NA,5,14,16,NA,703,4.8,1050016,NA,https://www.vrbo.com/1050016,VRBO,5000,2,311,"<a href='https://www.vrbo.com/1050016'>VRBO--1050016</a>
+<br>
+row-num:311"
+NA,NA,NA,House,NA,NA,NA,NA,38.02166805,NA,-78.4713566,1,1,3,NA,NA,98,NA,1293096,NA,https://www.vrbo.com/1293096,VRBO,0,1,312,"<a href='https://www.vrbo.com/1293096'>VRBO--1293096</a>
+<br>
+row-num:312"
+NA,NA,NA,House,NA,NA,NA,NA,38.0420052,NA,-78.4855244,4,3,6,NA,NA,110,NA,887368,NA,https://www.vrbo.com/887368,VRBO,3000,5,313,"<a href='https://www.vrbo.com/887368'>VRBO--887368</a>
+<br>
+row-num:313"
+NA,NA,NA,House,NA,NA,NA,NA,38.04132037,NA,-78.50885115,2,3,6,NA,NA,417,NA,9165054ha,NA,https://www.vrbo.com/9165054ha,VRBO,0,2,314,"<a href='https://www.vrbo.com/9165054ha'>VRBO--9165054ha</a>
+<br>
+row-num:314"
+NA,NA,NA,Cottage,NA,NA,NA,NA,38.05586,NA,-78.4598,1,1,2,NA,NA,95,NA,9251460ha,NA,https://www.vrbo.com/9251460ha,VRBO,1100,2,315,"<a href='https://www.vrbo.com/9251460ha'>VRBO--9251460ha</a>
+<br>
+row-num:315"
+NA,NA,NA,Condo,NA,NA,NA,NA,38.06718587,NA,-78.49804951,1,2,6,40,NA,145,4.5,505005,NA,https://www.vrbo.com/505005,VRBO,860,2,316,"<a href='https://www.vrbo.com/505005'>VRBO--505005</a>
+<br>
+row-num:316"
+NA,NA,NA,Apartment,NA,NA,NA,NA,38.0291577,NA,-78.493354,1,1,4,NA,NA,85,NA,1188958,NA,https://www.vrbo.com/1188958,VRBO,0,7,317,"<a href='https://www.vrbo.com/1188958'>VRBO--1188958</a>
+<br>
+row-num:317"
+NA,NA,NA,Studio,NA,NA,NA,NA,38.04379626,NA,-78.49801678,1,1,3,NA,NA,357,NA,7186080ha,NA,https://www.vrbo.com/7186080ha,VRBO,550,1,318,"<a href='https://www.vrbo.com/7186080ha'>VRBO--7186080ha</a>
+<br>
+row-num:318"
+NA,NA,NA,Apartment,NA,NA,NA,NA,38.02721491,NA,-78.51269038,1,2,6,NA,NA,250,NA,4961946ha,NA,https://www.vrbo.com/4961946ha,VRBO,0,2,319,"<a href='https://www.vrbo.com/4961946ha'>VRBO--4961946ha</a>
+<br>
+row-num:319"
+NA,NA,NA,House,NA,NA,NA,NA,38.01488026,NA,-78.50952075,3,4,8,10,NA,484,5,4463796ha,NA,https://www.vrbo.com/4463796ha,VRBO,2500,2,320,"<a href='https://www.vrbo.com/4463796ha'>VRBO--4463796ha</a>
+<br>
+row-num:320"
+NA,NA,NA,House,NA,NA,NA,NA,38.04115276,NA,-78.49745731,3,4,10,NA,NA,1092,NA,1864784,NA,https://www.vrbo.com/1864784,VRBO,2000,2,321,"<a href='https://www.vrbo.com/1864784'>VRBO--1864784</a>
+<br>
+row-num:321"
+NA,NA,NA,House,NA,NA,NA,NA,38.04848588,NA,-78.49210186,5,5,10,10,NA,693,4.9,4639060ha,NA,https://www.vrbo.com/4639060ha,VRBO,4424,2,322,"<a href='https://www.vrbo.com/4639060ha'>VRBO--4639060ha</a>
+<br>
+row-num:322"
+NA,NA,NA,House,NA,NA,NA,NA,38.0519252,NA,-78.53277234,NA,2,6,9,NA,349,4.6,928312ha,NA,https://www.vrbo.com/928312ha,VRBO,1700,NA,323,"<a href='https://www.vrbo.com/928312ha'>VRBO--928312ha</a>
+<br>
+row-num:323"
+NA,NA,NA,House,NA,NA,NA,NA,38.05150803,NA,-78.46479281,4,5,22,38,NA,1054,5,1066482,NA,https://www.vrbo.com/1066482,VRBO,5500,1,324,"<a href='https://www.vrbo.com/1066482'>VRBO--1066482</a>
+<br>
+row-num:324"
+NA,NA,NA,House,NA,NA,NA,NA,38.04491594,NA,-78.46257805,1,1,4,NA,NA,188,NA,7388326ha,NA,https://www.vrbo.com/7388326ha,VRBO,0,2,325,"<a href='https://www.vrbo.com/7388326ha'>VRBO--7388326ha</a>
+<br>
+row-num:325"
+NA,NA,NA,House,NA,NA,NA,NA,38.0439077,NA,-78.4984449,4,5,12,6,NA,884,4.5,4290348ha,NA,https://www.vrbo.com/4290348ha,VRBO,7000,2,326,"<a href='https://www.vrbo.com/4290348ha'>VRBO--4290348ha</a>
+<br>
+row-num:326"
+NA,NA,NA,House,NA,NA,NA,NA,38.027752,NA,-78.517177,NA,4,8,NA,NA,482,NA,1827199,NA,https://www.vrbo.com/1827199,VRBO,0,2,327,"<a href='https://www.vrbo.com/1827199'>VRBO--1827199</a>
+<br>
+row-num:327"
+NA,NA,NA,House,NA,NA,NA,NA,38.015243,NA,-78.509534,NA,4,10,26,NA,483,4.9,3728982ha,NA,https://www.vrbo.com/3728982ha,VRBO,3300,2,328,"<a href='https://www.vrbo.com/3728982ha'>VRBO--3728982ha</a>
+<br>
+row-num:328"
+NA,NA,NA,House,NA,NA,NA,NA,38.064106,NA,-78.531949,NA,5,10,46,NA,600,5,178806ha,NA,https://www.vrbo.com/178806ha,VRBO,3900,3,329,"<a href='https://www.vrbo.com/178806ha'>VRBO--178806ha</a>
+<br>
+row-num:329"
+NA,NA,NA,House,NA,NA,NA,NA,38.01888756,NA,-78.49559205,NA,4,12,NA,NA,437,NA,1693143,NA,https://www.vrbo.com/1693143,VRBO,2100,2,330,"<a href='https://www.vrbo.com/1693143'>VRBO--1693143</a>
+<br>
+row-num:330"
+NA,NA,NA,House,NA,NA,NA,NA,38.03892332,NA,-78.47788006,1,2,4,NA,NA,166,NA,1875503,NA,https://www.vrbo.com/1875503,VRBO,0,1,331,"<a href='https://www.vrbo.com/1875503'>VRBO--1875503</a>
+<br>
+row-num:331"
+NA,NA,NA,House,NA,NA,NA,NA,38.04660758,NA,-78.49709141,2,3,6,NA,NA,395,NA,1884915,NA,https://www.vrbo.com/1884915,VRBO,2620,2,332,"<a href='https://www.vrbo.com/1884915'>VRBO--1884915</a>
+<br>
+row-num:332"
+NA,NA,NA,Apartment,NA,NA,NA,NA,38.02730245,NA,-78.47924714,1,1,2,NA,NA,261,NA,9272721ha,NA,https://www.vrbo.com/9272721ha,VRBO,0,2,333,"<a href='https://www.vrbo.com/9272721ha'>VRBO--9272721ha</a>
+<br>
+row-num:333"
+NA,NA,NA,House,NA,NA,NA,NA,38.02819713,NA,-78.50559252,2,2,4,4,NA,249,NA,7494151ha,NA,https://www.vrbo.com/7494151ha,VRBO,1000,2,334,"<a href='https://www.vrbo.com/7494151ha'>VRBO--7494151ha</a>
+<br>
+row-num:334"
+NA,NA,NA,House,NA,NA,NA,NA,38.033807,NA,-78.47343,2,3,6,4,NA,366,NA,1597579,NA,https://www.vrbo.com/1597579,VRBO,0,2,335,"<a href='https://www.vrbo.com/1597579'>VRBO--1597579</a>
+<br>
+row-num:335"
+NA,NA,NA,Apartment,NA,NA,NA,NA,38.02558472,NA,-78.47761293,1,1,2,NA,NA,160,NA,9165074ha,NA,https://www.vrbo.com/9165074ha,VRBO,897,1,336,"<a href='https://www.vrbo.com/9165074ha'>VRBO--9165074ha</a>
+<br>
+row-num:336"
+NA,NA,NA,Apartment,NA,NA,NA,NA,38.02383598,NA,-78.48068996,1,1,2,NA,NA,162,NA,9165078ha,NA,https://www.vrbo.com/9165078ha,VRBO,464,1,337,"<a href='https://www.vrbo.com/9165078ha'>VRBO--9165078ha</a>
+<br>
+row-num:337"
+NA,NA,NA,Apartment,NA,NA,NA,NA,38.0247148,NA,-78.47894051,NA,1,2,NA,NA,153,NA,9165073ha,NA,https://www.vrbo.com/9165073ha,VRBO,464,NA,338,"<a href='https://www.vrbo.com/9165073ha'>VRBO--9165073ha</a>
+<br>
+row-num:338"
+NA,NA,NA,House,NA,NA,NA,NA,38.03490323,NA,-78.47127919,NA,1,2,NA,NA,192,NA,9165067ha,NA,https://www.vrbo.com/9165067ha,VRBO,850,NA,339,"<a href='https://www.vrbo.com/9165067ha'>VRBO--9165067ha</a>
+<br>
+row-num:339"
+NA,NA,NA,Apartment,NA,NA,NA,NA,38.02595114,NA,-78.47486521,NA,1,2,NA,NA,154,NA,9165072ha,NA,https://www.vrbo.com/9165072ha,VRBO,391,NA,340,"<a href='https://www.vrbo.com/9165072ha'>VRBO--9165072ha</a>
+<br>
+row-num:340"
+NA,NA,NA,Apartment,NA,NA,NA,NA,38.02642351,NA,-78.47429893,1,1,2,NA,NA,189,NA,9165077ha,NA,https://www.vrbo.com/9165077ha,VRBO,536,1,341,"<a href='https://www.vrbo.com/9165077ha'>VRBO--9165077ha</a>
+<br>
+row-num:341"
+NA,NA,NA,Apartment,NA,NA,NA,NA,38.02438181,NA,-78.47475573,1,1,2,NA,NA,174,NA,9165062ha,NA,https://www.vrbo.com/9165062ha,VRBO,480,1,342,"<a href='https://www.vrbo.com/9165062ha'>VRBO--9165062ha</a>
+<br>
+row-num:342"
+NA,NA,NA,Apartment,NA,NA,NA,NA,38.0248116,NA,-78.47377689,NA,1,2,NA,NA,132,NA,9165055ha,NA,https://www.vrbo.com/9165055ha,VRBO,433,NA,343,"<a href='https://www.vrbo.com/9165055ha'>VRBO--9165055ha</a>
+<br>
+row-num:343"
+NA,NA,NA,House,NA,NA,NA,NA,38.02414825,NA,-78.49182293,1,1,4,16,NA,189,4.3,237611ha,NA,https://www.vrbo.com/237611ha,VRBO,844,2,344,"<a href='https://www.vrbo.com/237611ha'>VRBO--237611ha</a>
+<br>
+row-num:344"
+NA,NA,NA,Cottage,NA,NA,NA,NA,38.026869,NA,-78.518238,1,2,5,49,NA,167,4.9,655823,NA,https://www.vrbo.com/655823,VRBO,1050,1,345,"<a href='https://www.vrbo.com/655823'>VRBO--655823</a>
+<br>
+row-num:345"
+NA,NA,NA,Hotel,NA,NA,NA,NA,38.03149294,NA,-78.48122104,1,1,2,2,NA,172,NA,7160442ha,NA,https://www.vrbo.com/7160442ha,VRBO,225,1,346,"<a href='https://www.vrbo.com/7160442ha'>VRBO--7160442ha</a>
+<br>
+row-num:346"
+NA,NA,NA,House,NA,NA,NA,NA,38.02367975,NA,-78.47834214,3,3,6,10,NA,343,4.8,7160483ha,NA,https://www.vrbo.com/7160483ha,VRBO,3150,2,347,"<a href='https://www.vrbo.com/7160483ha'>VRBO--7160483ha</a>
+<br>
+row-num:347"
+NA,NA,NA,Apartment,NA,NA,NA,NA,38.02227501,NA,-78.47710394,1,1,2,NA,NA,155,NA,9165059ha,NA,https://www.vrbo.com/9165059ha,VRBO,571,1,348,"<a href='https://www.vrbo.com/9165059ha'>VRBO--9165059ha</a>
+<br>
+row-num:348"
+NA,NA,NA,Apartment,NA,NA,NA,NA,38.02646755,NA,-78.47048851,1,1,2,NA,NA,165,NA,9165071ha,NA,https://www.vrbo.com/9165071ha,VRBO,621,1,349,"<a href='https://www.vrbo.com/9165071ha'>VRBO--9165071ha</a>
+<br>
+row-num:349"
+NA,NA,NA,Apartment,NA,NA,NA,NA,38.02215514,NA,-78.47596418,1,1,2,NA,NA,177,NA,9165070ha,NA,https://www.vrbo.com/9165070ha,VRBO,480,1,350,"<a href='https://www.vrbo.com/9165070ha'>VRBO--9165070ha</a>
+<br>
+row-num:350"
+NA,NA,NA,House,NA,NA,NA,NA,38.0312842,NA,-78.4788204,1,4,6,13,NA,449,4.3,960092,NA,https://www.vrbo.com/960092,VRBO,2000,2,351,"<a href='https://www.vrbo.com/960092'>VRBO--960092</a>
+<br>
+row-num:351"
+NA,NA,NA,Studio,NA,NA,NA,NA,38.027308,NA,-78.47537632,1,1,2,2,NA,143,NA,7160445ha,NA,https://www.vrbo.com/7160445ha,VRBO,0,2,352,"<a href='https://www.vrbo.com/7160445ha'>VRBO--7160445ha</a>
+<br>
+row-num:352"
+NA,NA,NA,House,NA,NA,NA,NA,38.02741244,NA,-78.47518768,5,4,8,35,NA,452,4.7,326455ha,NA,https://www.vrbo.com/326455ha,VRBO,2960,2,353,"<a href='https://www.vrbo.com/326455ha'>VRBO--326455ha</a>
+<br>
+row-num:353"
+NA,NA,NA,House,NA,NA,NA,NA,38.03068367,NA,-78.5091197,NA,3,8,5,NA,430,4.8,7388327ha,NA,https://www.vrbo.com/7388327ha,VRBO,3123,2,354,"<a href='https://www.vrbo.com/7388327ha'>VRBO--7388327ha</a>
+<br>
+row-num:354"
+NA,NA,NA,House,NA,NA,NA,NA,38.027503,NA,-78.462371,2,3,8,50,NA,140,4,697200,NA,https://www.vrbo.com/697200,VRBO,0,2,355,"<a href='https://www.vrbo.com/697200'>VRBO--697200</a>
+<br>
+row-num:355"
+NA,NA,NA,House,NA,NA,NA,NA,38.0259342,NA,-78.4657479,1,2,4,39,NA,125,4.9,1269877,NA,https://www.vrbo.com/1269877,VRBO,0,2,356,"<a href='https://www.vrbo.com/1269877'>VRBO--1269877</a>
+<br>
+row-num:356"
+NA,NA,NA,House,NA,NA,NA,NA,38.029996,NA,-78.48872875,NA,2,5,49,NA,175,4.8,1006784,NA,https://www.vrbo.com/1006784,VRBO,995,2,357,"<a href='https://www.vrbo.com/1006784'>VRBO--1006784</a>
+<br>
+row-num:357"
+NA,NA,NA,Cottage,NA,NA,NA,NA,38.026832,NA,-78.474058,1,1,2,25,NA,284,5,785819,NA,https://www.vrbo.com/785819,VRBO,650,2,358,"<a href='https://www.vrbo.com/785819'>VRBO--785819</a>
+<br>
+row-num:358"
+NA,NA,NA,House,NA,NA,NA,NA,38.0338672,NA,-78.4771097,2,2,6,19,NA,375,4.9,694133,NA,https://www.vrbo.com/694133,VRBO,0,2,359,"<a href='https://www.vrbo.com/694133'>VRBO--694133</a>
+<br>
+row-num:359"
+NA,NA,NA,Studio,NA,NA,NA,NA,38.03867608,NA,-78.47430191,1,1,4,NA,NA,60,NA,1899471,NA,https://www.vrbo.com/1899471,VRBO,480,30,360,"<a href='https://www.vrbo.com/1899471'>VRBO--1899471</a>
+<br>
+row-num:360"
+NA,NA,NA,House,NA,NA,NA,NA,38.03502313,NA,-78.48137177,1,1,3,10,NA,87,4.6,4781968ha,NA,https://www.vrbo.com/4781968ha,VRBO,0,1,361,"<a href='https://www.vrbo.com/4781968ha'>VRBO--4781968ha</a>
+<br>
+row-num:361"
+NA,NA,NA,House,NA,NA,NA,NA,38.0262628,NA,-78.47444557,2,3,6,5,NA,326,5,7388330ha,NA,https://www.vrbo.com/7388330ha,VRBO,0,2,362,"<a href='https://www.vrbo.com/7388330ha'>VRBO--7388330ha</a>
+<br>
+row-num:362"
+NA,NA,NA,Cottage,NA,NA,NA,NA,38.037173,NA,-78.512092,1,1,4,21,NA,175,4.9,861878,NA,https://www.vrbo.com/861878,VRBO,800,3,363,"<a href='https://www.vrbo.com/861878'>VRBO--861878</a>
+<br>
+row-num:363"
