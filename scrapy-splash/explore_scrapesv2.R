@@ -8,7 +8,8 @@
 source(here::here("scrapy-splash/explore.R"))
 
 by_right_zones <- c("D","DE", "DN", "WME", "WMW",	"CH",	"HS",
-                    "NCC", "HW", "WSD", "URB", "SS", "CD", "CC") %>% 
+                    "NCC", "HW", "WSD", "URB", "SS", "CD", "CC",
+                    "B-1", "B-1C", "B-1H", "B-2", "B-2H", "B-3", "B-3H") %>% 
   sort()
 
 #+ setup, include=FALSE
@@ -22,7 +23,7 @@ knitr::opts_chunk$set(collapse = TRUE, fig.width = 9, echo = FALSE)
 #' 
 #' Then a zoning geo-filter was applied to identify properties as "by-right" or
 #' "restricted" for short-term rental. Zoning codes considered as "by-right" are:
-#' `r paste(by_right_zones, collapse = ",")`.`
+#' `r paste(by_right_zones, collapse = ",")`.
 #' 
 #' <details>
 #+ hidden, message = FALSE, warning = FALSE, fig.width = 12
@@ -33,14 +34,17 @@ both %<>%
          site = gsub("air", "Air", site)) %>% 
   filter(!is.na(in_city))
 
-zoning <- read_sf("https://opendata.arcgis.com/datasets/0e9946c2a77d4fc6ad16d9968509c588_72.geojson")
+# zoning <- read_sf("https://opendata.arcgis.com/datasets/0e9946c2a77d4fc6ad16d9968509c588_72.geojson")
+# 
+# zoning %<>% 
+#   group_by(Zoning) %>% 
+#   summarise(geometry = st_union(geometry)) %>% 
+#   ungroup() %>% 
+#   mutate(by_right = Zoning %in% by_right_zones | grepl("^B", Zoning)) %>%
+#   filter(!by_right)
 
-zoning %<>% 
-  group_by(Zoning) %>% 
-  summarise(geometry = st_union(geometry)) %>% 
-  ungroup() %>% 
-  mutate(by_right = Zoning %in% by_right_zones | grepl("^B", Zoning)) %>%
-  filter(!by_right)
+# saveRDS(zoning, "zoning.RDS")
+zoning <- readRDS(here::here("zoning.RDS"))
 
 both %<>%
   mutate(zone_id = st_within(., zoning) %>% as.numeric(),
@@ -54,7 +58,8 @@ p0 <- ggplot(both, aes(site, alpha = zone_bool)) +
        y = NULL,
        x = NULL,
        alpha = NULL,
-       caption = glue("by-right zones:\n{paste(sort(by_right_zones), collapse = ', ')}"))
+       caption = glue("by-right zones:\n{paste(by_right_zones[1:10], collapse = ', ')}
+                      {paste(by_right_zones[11:21], collapse = ', ')}"))
 
 #' </details>
 
@@ -73,8 +78,6 @@ p0
 #' ## Code
 #' <details>
 #+ hidden2, message = FALSE, warning = FALSE, fig.width = 12
-
-source(here::here("scrapy-splash/explore.R"))
 
 # 1st week in October
 airbnb_oct <- airbnb_readin("scrapy-splash/airbnb-oct/airbnb_oct_cville.csv") %>% 
@@ -108,10 +111,12 @@ all <- bind_rows(airbnb_oct, airbnb_nov, airbnb_dec) %>%
          month = factor(month, c("Oct", "Nov", "Dec"))) %>%
   select_if(~ !all(is.na(.)))
 
-# filter to inside City
+# filter to inside City and inside Zonings
 all %<>%
   sfize() %>% 
-  mutate(in_city = st_within(., st_union(tracts)) %>% as.numeric()) %>% 
+  mutate(in_city = st_within(., st_union(tracts)) %>% as.numeric(),
+         zone_id = st_within(., zoning) %>% as.numeric(),
+         zone_bool = ifelse(is.na(zone_id), "by-right", "restricted")) %>% 
   filter(!is.na(in_city))
 
 # check for dupes
@@ -120,34 +125,37 @@ all %>%
   count() %>%
   filter(n > 1) # 136
 
-
-p1a <- ggplot(all, aes(month)) +
-  geom_bar() +
+p1a <- ggplot(all, aes(month, alpha = zone_bool)) +
+  geom_bar(show.legend = FALSE) + 
+  scale_alpha_discrete(range = c(.4, 1)) +
   labs(title = "Listings available Mon-Fri",
        y = NULL,
        x = NULL,
        caption = "For first full calendar week in each month")
 
 p1b <- all %>%
-  count(room_id) %>% 
-  ggplot(aes(n)) +
-  geom_bar() +
+  count(room_id, zone_bool) %>% 
+  ggplot(aes(n, alpha = zone_bool)) +
+  geom_bar(show.legend = FALSE) + 
+  scale_alpha_discrete(range = c(.4, 1)) +
   labs(title = "Unique weekly listings",
         y = NULL,
        x = "# weeks available")
 
 larger_units <- filter(all, num_beds >= 2)
 
-p2a <- ggplot(larger_units, aes(month)) +
-  geom_bar() +
+p2a <- ggplot(larger_units, aes(month, alpha = zone_bool)) +
+  geom_bar(show.legend = FALSE) + 
+  scale_alpha_discrete(range = c(.4, 1)) +
   labs(title = "Larger (> 2 bedrooms) listings ",
        y = NULL,
        x = NULL)
 
 p2b <- larger_units %>%
-  count(room_id) %>% 
-  ggplot(aes(n)) +
-  geom_bar() +
+  count(room_id, zone_bool) %>% 
+  ggplot(aes(n, alpha = zone_bool)) +
+  geom_bar(show.legend = FALSE) +
+  scale_alpha_discrete(range = c(.4, 1)) +
   labs(title = "Unique larger listings",
        y = NULL,
        x = "# weeks available")
