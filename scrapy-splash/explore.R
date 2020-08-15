@@ -36,7 +36,12 @@ airbnb <- airbnb_readin( "scrapy-splash/airbnb/airbnb_cville.csv") %>%
 
 airbnb_dedup <- . %>% 
   group_by(room_id) %>% 
-  mutate(price = mean(price)) %>% 
+  mutate(
+    price = gsub("\\$\\s*", "", price) %>% 
+      gsub(",", "", .) %>% 
+      as.numeric() %>% 
+      mean()
+    ) %>% 
   slice(1) %>% 
   group_by()
 
