@@ -79,7 +79,7 @@ ggplot(tracts) +
 
 ggplot(tracts, aes(fill = n)) +
   geom_sf() +
-  geom_sf_text(aes(label = n), color = "white", fontface = "bold", size = 5,
+  geom_sf_text(aes(label = n), color = "white", fontface = "bold", size = 4,
                fun.geometry = sf::st_centroid) +
   theme_void() +
   theme(legend.position = "bottom", 
@@ -89,4 +89,4 @@ ggplot(tracts, aes(fill = n)) +
        subtitle = "133 units in total",
        fill = "Short-term\nRentals")
 
-ggsave("map_post.png")
+ggsave("map_post.png", width = 6, height = 4)
