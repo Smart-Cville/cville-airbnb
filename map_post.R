@@ -85,8 +85,9 @@ ggplot(tracts, aes(fill = n)) +
   theme(legend.position = "bottom", 
         legend.direction = "horizontal",
         legend.key.width = unit(1, "cm")) +
-  labs(title = "Full-time appartment sized short-term rentals",
-       subtitle = "133 units in total",
-       fill = "Short-term\nRentals")
+  labs(title = "Full-time 2+ bedroom short-term rentals",
+       subtitle = "by Census tract",
+       caption = "133 units in total",
+       fill = "# Short-term\n   Rentals")
 
 ggsave("map_post.png", width = 6, height = 4)
