@@ -19,7 +19,7 @@ jedi==0.15.2
 jupyter-client==5.3.4
 jupyter-core==4.6.1
 lazy-object-proxy==1.4.3
-lxml==4.4.2
+lxml==4.6.2
 mccabe==0.6.1
 parsel==1.5.2
 parso==0.5.2
