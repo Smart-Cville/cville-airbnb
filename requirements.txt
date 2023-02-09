@@ -39,7 +39,7 @@ pyOpenSSL==19.1.0
 python-dateutil==2.8.1
 pyzmq==18.1.1
 queuelib==1.5.0
-Scrapy==1.8.1
+Scrapy==2.6.2
 scrapy-splash==0.8.0
 service-identity==18.1.0
 six==1.13.0
